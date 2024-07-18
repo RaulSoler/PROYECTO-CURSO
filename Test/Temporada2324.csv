@@ -1,0 +1,761 @@
+Rk,Team,Date,,Opp,Comp,Result,GF,GA,GD,Poss,G-PK,PK,PKatt,PKm,Match Report
+1,Alavés,2024-05-26,@,Las Palmas,es La Liga,D 1-1,1,1,0,35,1,0,1,1,Match Report
+2,Valencia,2024-05-26,@,Celta Vigo,es La Liga,D 2-2,2,2,0,46,0,1,1,0,Match Report
+3,Getafe,2024-05-26,,Mallorca,es La Liga,L 1-2,1,2,-1,50,1,0,0,0,Match Report
+4,Sevilla,2024-05-26,,Barcelona,es La Liga,L 1-2,1,2,-1,39,1,0,0,0,Match Report
+5,Mallorca,2024-05-26,@,Getafe,es La Liga,W 2-1,2,1,1,50,2,0,0,0,Match Report
+6,Celta Vigo,2024-05-26,,Valencia,es La Liga,D 2-2,2,2,0,54,1,1,1,0,Match Report
+7,Barcelona,2024-05-26,@,Sevilla,es La Liga,W 2-1,2,1,1,61,2,0,0,0,Match Report
+8,Las Palmas,2024-05-26,,Alavés,es La Liga,D 1-1,1,1,0,65,1,0,0,0,Match Report
+9,Real Sociedad,2024-05-25,,Atlético Madrid,es La Liga,L 0-2,0,2,-2,59,0,0,0,0,Match Report
+10,Almería,2024-05-25,,Cádiz,es La Liga,W 6-1,6,1,5,46,5,0,0,0,Match Report
+11,Cádiz,2024-05-25,@,Almería,es La Liga,L 1-6,1,6,-5,54,1,0,0,0,Match Report
+12,Athletic Club,2024-05-25,@,Rayo Vallecano,es La Liga,W 1-0,1,0,1,37,1,0,0,0,Match Report
+13,Rayo Vallecano,2024-05-25,,Athletic Club,es La Liga,L 0-1,0,1,-1,63,0,0,0,0,Match Report
+14,Real Madrid,2024-05-25,,Betis,es La Liga,D 0-0,0,0,0,59,0,0,0,0,Match Report
+15,Villarreal,2024-05-25,@,Osasuna,es La Liga,D 1-1,1,1,0,57,1,0,0,0,Match Report
+16,Betis,2024-05-25,@,Real Madrid,es La Liga,D 0-0,0,0,0,41,0,0,0,0,Match Report
+17,Atlético Madrid,2024-05-25,@,Real Sociedad,es La Liga,W 2-0,2,0,2,41,2,0,0,0,Match Report
+18,Osasuna,2024-05-25,,Villarreal,es La Liga,D 1-1,1,1,0,43,1,0,0,0,Match Report
+19,Girona,2024-05-24,,Granada,es La Liga,W 7-0,7,0,7,70,5,2,2,0,Match Report
+20,Granada,2024-05-24,@,Girona,es La Liga,L 0-7,0,7,-7,30,0,0,0,0,Match Report
+21,Atlético Madrid,2024-05-19,,Osasuna,es La Liga,L 1-4,1,4,-3,56,1,0,0,0,Match Report
+22,Real Sociedad,2024-05-19,@,Betis,es La Liga,W 2-0,2,0,2,33,2,0,0,0,Match Report
+23,Almería,2024-05-19,@,Mallorca,es La Liga,D 2-2,2,2,0,48,2,0,0,0,Match Report
+24,Girona,2024-05-19,@,Valencia,es La Liga,W 3-1,3,1,2,63,2,0,0,0,Match Report
+25,Cádiz,2024-05-19,,Las Palmas,es La Liga,D 0-0,0,0,0,49,0,0,0,0,Match Report
+26,Valencia,2024-05-19,,Girona,es La Liga,L 1-3,1,3,-2,37,0,1,1,0,Match Report
+27,Athletic Club,2024-05-19,,Sevilla,es La Liga,W 2-0,2,0,2,53,2,0,0,0,Match Report
+28,Mallorca,2024-05-19,,Almería,es La Liga,D 2-2,2,2,0,52,2,0,0,0,Match Report
+29,Rayo Vallecano,2024-05-19,@,Barcelona,es La Liga,L 0-3,0,3,-3,28,0,0,0,0,Match Report
+30,Celta Vigo,2024-05-19,@,Granada,es La Liga,W 2-1,2,1,1,51,2,0,0,0,Match Report
+31,Villarreal,2024-05-19,,Real Madrid,es La Liga,D 4-4,4,4,0,43,4,0,0,0,Match Report
+32,Betis,2024-05-19,,Real Sociedad,es La Liga,L 0-2,0,2,-2,67,0,0,1,1,Match Report
+33,Granada,2024-05-19,,Celta Vigo,es La Liga,L 1-2,1,2,-1,49,1,0,1,1,Match Report
+34,Barcelona,2024-05-19,,Rayo Vallecano,es La Liga,W 3-0,3,0,3,72,3,0,0,0,Match Report
+35,Sevilla,2024-05-19,@,Athletic Club,es La Liga,L 0-2,0,2,-2,47,0,0,0,0,Match Report
+36,Osasuna,2024-05-19,@,Atlético Madrid,es La Liga,W 4-1,4,1,3,44,4,0,0,0,Match Report
+37,Las Palmas,2024-05-19,@,Cádiz,es La Liga,D 0-0,0,0,0,51,0,0,0,0,Match Report
+38,Real Madrid,2024-05-19,@,Villarreal,es La Liga,D 4-4,4,4,0,57,4,0,0,0,Match Report
+39,Alavés,2024-05-18,,Getafe,es La Liga,W 1-0,1,0,1,48,1,0,0,0,Match Report
+40,Getafe,2024-05-18,@,Alavés,es La Liga,L 0-1,0,1,-1,52,0,0,0,0,Match Report
+41,Real Sociedad,2024-05-16,,Valencia,es La Liga,W 1-0,1,0,1,57,1,0,0,0,Match Report
+42,Almería,2024-05-16,,Barcelona,es La Liga,L 0-2,0,2,-2,36,0,0,0,0,Match Report
+43,Valencia,2024-05-16,@,Real Sociedad,es La Liga,L 0-1,0,1,-1,43,0,0,0,0,Match Report
+44,Barcelona,2024-05-16,@,Almería,es La Liga,W 2-0,2,0,2,64,2,0,0,0,Match Report
+45,Las Palmas,2024-05-16,,Betis,es La Liga,D 2-2,2,2,0,57,2,0,0,0,Match Report
+46,Betis,2024-05-16,@,Las Palmas,es La Liga,D 2-2,2,2,0,43,1,0,0,0,Match Report
+47,Atlético Madrid,2024-05-15,@,Getafe,es La Liga,W 3-0,3,0,3,55,3,0,0,0,Match Report
+48,Sevilla,2024-05-15,,Cádiz,es La Liga,L 0-1,0,1,-1,56,0,0,0,0,Match Report
+49,Getafe,2024-05-15,,Atlético Madrid,es La Liga,L 0-3,0,3,-3,45,0,0,0,0,Match Report
+50,Cádiz,2024-05-15,@,Sevilla,es La Liga,W 1-0,1,0,1,44,1,0,0,0,Match Report
+51,Celta Vigo,2024-05-15,,Athletic Club,es La Liga,W 2-1,2,1,1,53,2,0,0,0,Match Report
+52,Granada,2024-05-15,@,Rayo Vallecano,es La Liga,L 1-2,1,2,-1,67,1,0,0,0,Match Report
+53,Athletic Club,2024-05-15,@,Celta Vigo,es La Liga,L 1-2,1,2,-1,47,1,0,0,0,Match Report
+54,Rayo Vallecano,2024-05-15,,Granada,es La Liga,W 2-1,2,1,1,33,2,0,0,0,Match Report
+55,Alavés,2024-05-14,@,Real Madrid,es La Liga,L 0-5,0,5,-5,29,0,0,0,0,Match Report
+56,Real Madrid,2024-05-14,,Alavés,es La Liga,W 5-0,5,0,5,71,5,0,0,0,Match Report
+57,Girona,2024-05-14,,Villarreal,es La Liga,L 0-1,0,1,-1,67,0,0,0,0,Match Report
+58,Osasuna,2024-05-14,,Mallorca,es La Liga,D 1-1,1,1,0,52,1,0,0,0,Match Report
+59,Mallorca,2024-05-14,@,Osasuna,es La Liga,D 1-1,1,1,0,48,1,0,0,0,Match Report
+60,Villarreal,2024-05-14,@,Girona,es La Liga,W 1-0,1,0,1,33,1,0,0,0,Match Report
+61,Real Sociedad,2024-05-13,@,Barcelona,es La Liga,L 0-2,0,2,-2,44,0,0,0,0,Match Report
+62,Barcelona,2024-05-13,,Real Sociedad,es La Liga,W 2-0,2,0,2,56,1,1,1,0,Match Report
+63,Almería,2024-05-12,@,Betis,es La Liga,L 2-3,2,3,-1,52,2,0,0,0,Match Report
+64,Cádiz,2024-05-12,,Getafe,es La Liga,W 1-0,1,0,1,45,0,1,1,0,Match Report
+65,Atlético Madrid,2024-05-12,,Celta Vigo,es La Liga,W 1-0,1,0,1,56,1,0,0,0,Match Report
+66,Getafe,2024-05-12,@,Cádiz,es La Liga,L 0-1,0,1,-1,55,0,0,0,0,Match Report
+67,Valencia,2024-05-12,,Rayo Vallecano,es La Liga,D 0-0,0,0,0,51,0,0,0,0,Match Report
+68,Rayo Vallecano,2024-05-12,@,Valencia,es La Liga,D 0-0,0,0,0,49,0,0,0,0,Match Report
+69,Celta Vigo,2024-05-12,@,Atlético Madrid,es La Liga,L 0-1,0,1,-1,44,0,0,0,0,Match Report
+70,Betis,2024-05-12,,Almería,es La Liga,W 3-2,3,2,1,48,3,0,0,0,Match Report
+71,Real Madrid,2024-05-11,@,Granada,es La Liga,W 4-0,4,0,4,58,4,0,0,0,Match Report
+72,Athletic Club,2024-05-11,,Osasuna,es La Liga,D 2-2,2,2,0,67,2,0,0,0,Match Report
+73,Granada,2024-05-11,,Real Madrid,es La Liga,L 0-4,0,4,-4,42,0,0,0,0,Match Report
+74,Osasuna,2024-05-11,@,Athletic Club,es La Liga,D 2-2,2,2,0,33,2,0,0,0,Match Report
+75,Sevilla,2024-05-11,@,Villarreal,es La Liga,L 2-3,2,3,-1,41,1,1,1,0,Match Report
+76,Mallorca,2024-05-11,,Las Palmas,es La Liga,W 1-0,1,0,1,44,1,0,0,0,Match Report
+77,Las Palmas,2024-05-11,@,Mallorca,es La Liga,L 0-1,0,1,-1,56,0,0,0,0,Match Report
+78,Villarreal,2024-05-11,,Sevilla,es La Liga,W 3-2,3,2,1,59,3,0,0,0,Match Report
+79,Alavés,2024-05-10,,Girona,es La Liga,D 2-2,2,2,0,36,2,0,0,0,Match Report
+80,Girona,2024-05-10,@,Alavés,es La Liga,D 2-2,2,2,0,64,2,0,0,0,Match Report
+81,Alavés,2024-05-05,@,Valencia,es La Liga,W 1-0,1,0,1,42,1,0,0,0,Match Report
+82,Almería,2024-05-05,@,Rayo Vallecano,es La Liga,W 1-0,1,0,1,32,1,0,0,0,Match Report
+83,Osasuna,2024-05-05,,Betis,es La Liga,L 0-2,0,2,-2,42,0,0,0,0,Match Report
+84,Celta Vigo,2024-05-05,,Villarreal,es La Liga,W 3-2,3,2,1,53,2,1,1,0,Match Report
+85,Granada,2024-05-05,@,Sevilla,es La Liga,L 0-3,0,3,-3,40,0,0,0,0,Match Report
+86,Rayo Vallecano,2024-05-05,,Almería,es La Liga,L 0-1,0,1,-1,68,0,0,0,0,Match Report
+87,Sevilla,2024-05-05,,Granada,es La Liga,W 3-0,3,0,3,60,3,0,0,0,Match Report
+88,Valencia,2024-05-05,,Alavés,es La Liga,L 0-1,0,1,-1,58,0,0,0,0,Match Report
+89,Betis,2024-05-05,@,Osasuna,es La Liga,W 2-0,2,0,2,58,2,0,0,0,Match Report
+90,Villarreal,2024-05-05,@,Celta Vigo,es La Liga,L 2-3,2,3,-1,47,2,0,0,0,Match Report
+91,Atlético Madrid,2024-05-04,@,Mallorca,es La Liga,W 1-0,1,0,1,41,1,0,0,0,Match Report
+92,Real Sociedad,2024-05-04,,Las Palmas,es La Liga,W 2-0,2,0,2,52,1,0,0,0,Match Report
+93,Girona,2024-05-04,,Barcelona,es La Liga,W 4-2,4,2,2,40,4,0,0,0,Match Report
+94,Cádiz,2024-05-04,@,Real Madrid,es La Liga,L 0-3,0,3,-3,30,0,0,0,0,Match Report
+95,Las Palmas,2024-05-04,@,Real Sociedad,es La Liga,L 0-2,0,2,-2,48,0,0,0,0,Match Report
+96,Barcelona,2024-05-04,@,Girona,es La Liga,L 2-4,2,4,-2,60,1,1,1,0,Match Report
+97,Mallorca,2024-05-04,,Atlético Madrid,es La Liga,L 0-1,0,1,-1,59,0,0,0,0,Match Report
+98,Real Madrid,2024-05-04,,Cádiz,es La Liga,W 3-0,3,0,3,70,3,0,0,0,Match Report
+99,Getafe,2024-05-03,,Athletic Club,es La Liga,L 0-2,0,2,-2,64,0,0,1,1,Match Report
+100,Athletic Club,2024-05-03,@,Getafe,es La Liga,W 2-0,2,0,2,36,2,0,0,0,Match Report
+101,Valencia,2024-04-29,@,Barcelona,es La Liga,L 2-4,2,4,-2,20,1,1,1,0,Match Report
+102,Barcelona,2024-04-29,,Valencia,es La Liga,W 4-2,4,2,2,80,4,0,0,0,Match Report
+103,Cádiz,2024-04-28,,Mallorca,es La Liga,D 1-1,1,1,0,58,0,0,0,0,Match Report
+104,Osasuna,2024-04-28,@,Granada,es La Liga,L 0-3,0,3,-3,62,0,0,0,0,Match Report
+105,Rayo Vallecano,2024-04-28,@,Villarreal,es La Liga,L 0-3,0,3,-3,54,0,0,0,0,Match Report
+106,Mallorca,2024-04-28,@,Cádiz,es La Liga,D 1-1,1,1,0,42,1,0,0,0,Match Report
+107,Betis,2024-04-28,,Sevilla,es La Liga,D 1-1,1,1,0,50,0,1,1,0,Match Report
+108,Villarreal,2024-04-28,,Rayo Vallecano,es La Liga,W 3-0,3,0,3,46,3,0,0,0,Match Report
+109,Granada,2024-04-28,,Osasuna,es La Liga,W 3-0,3,0,3,38,3,0,0,0,Match Report
+110,Sevilla,2024-04-28,@,Betis,es La Liga,D 1-1,1,1,0,50,1,0,0,0,Match Report
+111,Las Palmas,2024-04-27,,Girona,es La Liga,L 0-2,0,2,-2,61,0,0,1,1,Match Report
+112,Alavés,2024-04-27,,Celta Vigo,es La Liga,W 3-0,3,0,3,38,3,0,0,0,Match Report
+113,Almería,2024-04-27,,Getafe,es La Liga,L 1-3,1,3,-2,56,1,0,0,0,Match Report
+114,Getafe,2024-04-27,@,Almería,es La Liga,W 3-1,3,1,2,44,3,0,0,0,Match Report
+115,Girona,2024-04-27,@,Las Palmas,es La Liga,W 2-0,2,0,2,39,1,1,2,1,Match Report
+116,Athletic Club,2024-04-27,@,Atlético Madrid,es La Liga,L 1-3,1,3,-2,58,1,0,0,0,Match Report
+117,Celta Vigo,2024-04-27,@,Alavés,es La Liga,L 0-3,0,3,-3,62,0,0,0,0,Match Report
+118,Atlético Madrid,2024-04-27,,Athletic Club,es La Liga,W 3-1,3,1,2,42,2,0,0,0,Match Report
+119,Real Sociedad,2024-04-26,,Real Madrid,es La Liga,L 0-1,0,1,-1,56,0,0,0,0,Match Report
+120,Real Madrid,2024-04-26,@,Real Sociedad,es La Liga,W 1-0,1,0,1,44,1,0,0,0,Match Report
+121,Sevilla,2024-04-22,,Mallorca,es La Liga,W 2-1,2,1,1,54,2,0,0,0,Match Report
+122,Mallorca,2024-04-22,@,Sevilla,es La Liga,L 1-2,1,2,-1,46,1,0,0,0,Match Report
+123,Alavés,2024-04-21,,Atlético Madrid,es La Liga,W 2-0,2,0,2,32,2,0,0,0,Match Report
+124,Villarreal,2024-04-21,@,Almería,es La Liga,W 2-1,2,1,1,43,2,0,0,0,Match Report
+125,Atlético Madrid,2024-04-21,@,Alavés,es La Liga,L 0-2,0,2,-2,68,0,0,0,0,Match Report
+126,Real Sociedad,2024-04-21,@,Getafe,es La Liga,D 1-1,1,1,0,59,1,0,0,0,Match Report
+127,Real Madrid,2024-04-21,,Barcelona,es La Liga,W 3-2,3,2,1,47,2,1,1,0,Match Report
+128,Almería,2024-04-21,,Villarreal,es La Liga,L 1-2,1,2,-1,57,1,0,0,0,Match Report
+129,Barcelona,2024-04-21,@,Real Madrid,es La Liga,L 2-3,2,3,-1,53,2,0,0,0,Match Report
+130,Getafe,2024-04-21,,Real Sociedad,es La Liga,D 1-1,1,1,0,41,1,0,0,0,Match Report
+131,Betis,2024-04-20,@,Valencia,es La Liga,W 2-1,2,1,1,46,2,0,0,0,Match Report
+132,Valencia,2024-04-20,,Betis,es La Liga,L 1-2,1,2,-1,54,0,1,1,0,Match Report
+133,Las Palmas,2024-04-20,@,Celta Vigo,es La Liga,L 1-4,1,4,-3,68,1,0,0,0,Match Report
+134,Osasuna,2024-04-20,@,Rayo Vallecano,es La Liga,L 1-2,1,2,-1,36,1,0,0,0,Match Report
+135,Celta Vigo,2024-04-20,,Las Palmas,es La Liga,W 4-1,4,1,3,32,4,0,0,0,Match Report
+136,Girona,2024-04-20,,Cádiz,es La Liga,W 4-1,4,1,3,57,4,0,0,0,Match Report
+137,Cádiz,2024-04-20,@,Girona,es La Liga,L 1-4,1,4,-3,43,1,0,0,0,Match Report
+138,Rayo Vallecano,2024-04-20,,Osasuna,es La Liga,W 2-1,2,1,1,64,2,0,0,0,Match Report
+139,Athletic Club,2024-04-19,,Granada,es La Liga,D 1-1,1,1,0,67,1,0,0,0,Match Report
+140,Granada,2024-04-19,@,Athletic Club,es La Liga,D 1-1,1,1,0,33,0,0,0,0,Match Report
+141,Osasuna,2024-04-15,,Valencia,es La Liga,L 0-1,0,1,-1,65,0,0,1,1,Match Report
+142,Valencia,2024-04-15,@,Osasuna,es La Liga,W 1-0,1,0,1,35,1,0,0,0,Match Report
+143,Athletic Club,2024-04-14,,Villarreal,es La Liga,D 1-1,1,1,0,53,1,0,0,0,Match Report
+144,Granada,2024-04-14,,Alavés,es La Liga,W 2-0,2,0,2,38,1,1,1,0,Match Report
+145,Villarreal,2024-04-14,@,Athletic Club,es La Liga,D 1-1,1,1,0,47,0,1,2,1,Match Report
+146,Alavés,2024-04-14,@,Granada,es La Liga,L 0-2,0,2,-2,62,0,0,0,0,Match Report
+147,Sevilla,2024-04-14,@,Las Palmas,es La Liga,W 2-0,2,0,2,37,2,0,0,0,Match Report
+148,Las Palmas,2024-04-14,,Sevilla,es La Liga,L 0-2,0,2,-2,63,0,0,0,0,Match Report
+149,Almería,2024-04-14,@,Real Sociedad,es La Liga,D 2-2,2,2,0,50,1,1,1,0,Match Report
+150,Real Sociedad,2024-04-14,,Almería,es La Liga,D 2-2,2,2,0,50,2,0,0,0,Match Report
+151,Rayo Vallecano,2024-04-13,,Getafe,es La Liga,D 0-0,0,0,0,63,0,0,0,0,Match Report
+152,Atlético Madrid,2024-04-13,,Girona,es La Liga,W 3-1,3,1,2,41,2,1,1,0,Match Report
+153,Girona,2024-04-13,@,Atlético Madrid,es La Liga,L 1-3,1,3,-2,59,1,0,0,0,Match Report
+154,Getafe,2024-04-13,@,Rayo Vallecano,es La Liga,D 0-0,0,0,0,37,0,0,0,0,Match Report
+155,Cádiz,2024-04-13,,Barcelona,es La Liga,L 0-1,0,1,-1,38,0,0,0,0,Match Report
+156,Mallorca,2024-04-13,,Real Madrid,es La Liga,L 0-1,0,1,-1,44,0,0,0,0,Match Report
+157,Real Madrid,2024-04-13,@,Mallorca,es La Liga,W 1-0,1,0,1,56,1,0,0,0,Match Report
+158,Barcelona,2024-04-13,@,Cádiz,es La Liga,W 1-0,1,0,1,62,1,0,0,0,Match Report
+159,Betis,2024-04-12,,Celta Vigo,es La Liga,W 2-1,2,1,1,47,2,0,0,0,Match Report
+160,Celta Vigo,2024-04-12,@,Betis,es La Liga,L 1-2,1,2,-1,53,1,0,0,0,Match Report
+161,Granada,2024-04-04,,Valencia,es La Liga,L 0-1,0,1,-1,57,0,0,0,0,Match Report
+162,Valencia,2024-04-04,@,Granada,es La Liga,W 1-0,1,0,1,43,1,0,0,0,Match Report
+163,Villarreal,2024-04-01,,Atlético Madrid,es La Liga,L 1-2,1,2,-1,52,1,0,0,0,Match Report
+164,Atlético Madrid,2024-04-01,@,Villarreal,es La Liga,W 2-1,2,1,1,48,2,0,0,0,Match Report
+165,Real Madrid,2024-03-31,,Athletic Club,es La Liga,W 2-0,2,0,2,58,2,0,0,0,Match Report
+166,Celta Vigo,2024-03-31,,Rayo Vallecano,es La Liga,D 0-0,0,0,0,61,0,0,0,0,Match Report
+167,Rayo Vallecano,2024-03-31,@,Celta Vigo,es La Liga,D 0-0,0,0,0,39,0,0,0,0,Match Report
+168,Alavés,2024-03-31,,Real Sociedad,es La Liga,L 0-1,0,1,-1,41,0,0,0,0,Match Report
+169,Betis,2024-03-31,@,Girona,es La Liga,L 2-3,2,3,-1,43,2,0,0,0,Match Report
+170,Real Sociedad,2024-03-31,@,Alavés,es La Liga,W 1-0,1,0,1,59,1,0,0,0,Match Report
+171,Girona,2024-03-31,,Betis,es La Liga,W 3-2,3,2,1,57,2,1,1,0,Match Report
+172,Athletic Club,2024-03-31,@,Real Madrid,es La Liga,L 0-2,0,2,-2,42,0,0,0,0,Match Report
+173,Sevilla,2024-03-30,@,Getafe,es La Liga,W 1-0,1,0,1,34,1,0,0,0,Match Report
+174,Almería,2024-03-30,,Osasuna,es La Liga,L 0-3,0,3,-3,51,0,0,0,0,Match Report
+175,Barcelona,2024-03-30,,Las Palmas,es La Liga,W 1-0,1,0,1,69,1,0,0,0,Match Report
+176,Osasuna,2024-03-30,@,Almería,es La Liga,W 3-0,3,0,3,49,3,0,0,0,Match Report
+177,Valencia,2024-03-30,,Mallorca,es La Liga,D 0-0,0,0,0,53,0,0,0,0,Match Report
+178,Getafe,2024-03-30,,Sevilla,es La Liga,L 0-1,0,1,-1,66,0,0,0,0,Match Report
+179,Las Palmas,2024-03-30,@,Barcelona,es La Liga,L 0-1,0,1,-1,31,0,0,0,0,Match Report
+180,Mallorca,2024-03-30,@,Valencia,es La Liga,D 0-0,0,0,0,47,0,0,0,0,Match Report
+181,Granada,2024-03-29,@,Cádiz,es La Liga,L 0-1,0,1,-1,41,0,0,0,0,Match Report
+182,Cádiz,2024-03-29,,Granada,es La Liga,W 1-0,1,0,1,59,1,0,0,0,Match Report
+183,Atlético Madrid,2024-03-17,,Barcelona,es La Liga,L 0-3,0,3,-3,41,0,0,0,0,Match Report
+184,Sevilla,2024-03-17,,Celta Vigo,es La Liga,L 1-2,1,2,-1,36,1,0,0,0,Match Report
+185,Celta Vigo,2024-03-17,@,Sevilla,es La Liga,W 2-1,2,1,1,64,2,0,0,0,Match Report
+186,Valencia,2024-03-17,@,Villarreal,es La Liga,L 0-1,0,1,-1,48,0,0,0,0,Match Report
+187,Betis,2024-03-17,@,Rayo Vallecano,es La Liga,L 0-2,0,2,-2,61,0,0,0,0,Match Report
+188,Las Palmas,2024-03-17,,Almería,es La Liga,L 0-1,0,1,-1,65,0,0,0,0,Match Report
+189,Almería,2024-03-17,@,Las Palmas,es La Liga,W 1-0,1,0,1,35,1,0,0,0,Match Report
+190,Rayo Vallecano,2024-03-17,,Betis,es La Liga,W 2-0,2,0,2,39,2,0,0,0,Match Report
+191,Villarreal,2024-03-17,,Valencia,es La Liga,W 1-0,1,0,1,52,1,0,1,1,Match Report
+192,Barcelona,2024-03-17,@,Atlético Madrid,es La Liga,W 3-0,3,0,3,59,3,0,0,0,Match Report
+193,Osasuna,2024-03-16,,Real Madrid,es La Liga,L 2-4,2,4,-2,36,2,0,0,0,Match Report
+194,Athletic Club,2024-03-16,,Alavés,es La Liga,W 2-0,2,0,2,59,2,0,0,0,Match Report
+195,Granada,2024-03-16,@,Mallorca,es La Liga,L 0-1,0,1,-1,48,0,0,0,0,Match Report
+196,Real Madrid,2024-03-16,@,Osasuna,es La Liga,W 4-2,4,2,2,64,4,0,0,0,Match Report
+197,Getafe,2024-03-16,,Girona,es La Liga,W 1-0,1,0,1,41,1,0,0,0,Match Report
+198,Alavés,2024-03-16,@,Athletic Club,es La Liga,L 0-2,0,2,-2,41,0,0,1,1,Match Report
+199,Girona,2024-03-16,@,Getafe,es La Liga,L 0-1,0,1,-1,59,0,0,0,0,Match Report
+200,Mallorca,2024-03-16,,Granada,es La Liga,W 1-0,1,0,1,52,1,0,0,0,Match Report
+201,Real Sociedad,2024-03-15,,Cádiz,es La Liga,W 2-0,2,0,2,63,2,0,0,0,Match Report
+202,Cádiz,2024-03-15,@,Real Sociedad,es La Liga,L 0-2,0,2,-2,37,0,0,0,0,Match Report
+203,Almería,2024-03-11,,Sevilla,es La Liga,D 2-2,2,2,0,44,2,0,0,0,Match Report
+204,Sevilla,2024-03-11,@,Almería,es La Liga,D 2-2,2,2,0,56,2,0,0,0,Match Report
+205,Las Palmas,2024-03-10,,Athletic Club,es La Liga,L 0-2,0,2,-2,70,0,0,0,0,Match Report
+206,Villarreal,2024-03-10,@,Betis,es La Liga,W 3-2,3,2,1,46,2,0,0,0,Match Report
+207,Athletic Club,2024-03-10,@,Las Palmas,es La Liga,W 2-0,2,0,2,30,1,0,0,0,Match Report
+208,Alavés,2024-03-10,,Rayo Vallecano,es La Liga,W 1-0,1,0,1,34,1,0,0,0,Match Report
+209,Rayo Vallecano,2024-03-10,@,Alavés,es La Liga,L 0-1,0,1,-1,66,0,0,0,0,Match Report
+210,Celta Vigo,2024-03-10,@,Real Madrid,es La Liga,L 0-4,0,4,-4,38,0,0,0,0,Match Report
+211,Betis,2024-03-10,,Villarreal,es La Liga,L 2-3,2,3,-1,54,2,0,0,0,Match Report
+212,Real Madrid,2024-03-10,,Celta Vigo,es La Liga,W 4-0,4,0,4,62,2,0,0,0,Match Report
+213,Osasuna,2024-03-09,@,Girona,es La Liga,L 0-2,0,2,-2,40,0,0,0,0,Match Report
+214,Getafe,2024-03-09,@,Valencia,es La Liga,L 0-1,0,1,-1,49,0,0,0,0,Match Report
+215,Girona,2024-03-09,,Osasuna,es La Liga,W 2-0,2,0,2,60,2,0,0,0,Match Report
+216,Granada,2024-03-09,,Real Sociedad,es La Liga,L 2-3,2,3,-1,37,1,1,1,0,Match Report
+217,Atlético Madrid,2024-03-09,@,Cádiz,es La Liga,L 0-2,0,2,-2,60,0,0,0,0,Match Report
+218,Valencia,2024-03-09,,Getafe,es La Liga,W 1-0,1,0,1,51,1,0,0,0,Match Report
+219,Real Sociedad,2024-03-09,@,Granada,es La Liga,W 3-2,3,2,1,63,3,0,0,0,Match Report
+220,Cádiz,2024-03-09,,Atlético Madrid,es La Liga,W 2-0,2,0,2,40,2,0,0,0,Match Report
+221,Barcelona,2024-03-08,,Mallorca,es La Liga,W 1-0,1,0,1,63,1,0,1,1,Match Report
+222,Mallorca,2024-03-08,@,Barcelona,es La Liga,L 0-1,0,1,-1,37,0,0,0,0,Match Report
+223,Osasuna,2024-03-04,,Alavés,es La Liga,W 1-0,1,0,1,55,1,0,0,0,Match Report
+224,Alavés,2024-03-04,@,Osasuna,es La Liga,L 0-1,0,1,-1,45,0,0,0,0,Match Report
+225,Barcelona,2024-03-03,@,Athletic Club,es La Liga,D 0-0,0,0,0,60,0,0,0,0,Match Report
+226,Villarreal,2024-03-03,,Granada,es La Liga,W 5-1,5,1,4,48,5,0,0,0,Match Report
+227,Mallorca,2024-03-03,,Girona,es La Liga,W 1-0,1,0,1,40,1,0,0,0,Match Report
+228,Athletic Club,2024-03-03,,Barcelona,es La Liga,D 0-0,0,0,0,40,0,0,0,0,Match Report
+229,Girona,2024-03-03,@,Mallorca,es La Liga,L 0-1,0,1,-1,60,0,0,0,0,Match Report
+230,Granada,2024-03-03,@,Villarreal,es La Liga,L 1-5,1,5,-4,52,1,0,0,0,Match Report
+231,Atlético Madrid,2024-03-03,,Betis,es La Liga,W 2-1,2,1,1,42,1,0,1,1,Match Report
+232,Betis,2024-03-03,@,Atlético Madrid,es La Liga,L 1-2,1,2,-1,58,1,0,0,0,Match Report
+233,Las Palmas,2024-03-02,@,Getafe,es La Liga,D 3-3,3,3,0,72,3,0,0,0,Match Report
+234,Getafe,2024-03-02,,Las Palmas,es La Liga,D 3-3,3,3,0,28,3,0,0,0,Match Report
+235,Rayo Vallecano,2024-03-02,,Cádiz,es La Liga,D 1-1,1,1,0,53,1,0,0,0,Match Report
+236,Sevilla,2024-03-02,,Real Sociedad,es La Liga,W 3-2,3,2,1,39,3,0,0,0,Match Report
+237,Valencia,2024-03-02,,Real Madrid,es La Liga,D 2-2,2,2,0,30,2,0,0,0,Match Report
+238,Real Sociedad,2024-03-02,@,Sevilla,es La Liga,L 2-3,2,3,-1,61,1,1,1,0,Match Report
+239,Cádiz,2024-03-02,@,Rayo Vallecano,es La Liga,D 1-1,1,1,0,47,1,0,0,0,Match Report
+240,Real Madrid,2024-03-02,@,Valencia,es La Liga,D 2-2,2,2,0,70,2,0,0,0,Match Report
+241,Almería,2024-03-01,@,Celta Vigo,es La Liga,L 0-1,0,1,-1,34,0,0,0,0,Match Report
+242,Celta Vigo,2024-03-01,,Almería,es La Liga,W 1-0,1,0,1,66,1,0,0,0,Match Report
+243,Girona,2024-02-26,,Rayo Vallecano,es La Liga,W 3-0,3,0,3,54,3,0,0,0,Match Report
+244,Rayo Vallecano,2024-02-26,@,Girona,es La Liga,L 0-3,0,3,-3,46,0,0,0,0,Match Report
+245,Las Palmas,2024-02-25,,Osasuna,es La Liga,D 1-1,1,1,0,71,1,0,0,0,Match Report
+246,Osasuna,2024-02-25,@,Las Palmas,es La Liga,D 1-1,1,1,0,29,1,0,0,0,Match Report
+247,Athletic Club,2024-02-25,@,Betis,es La Liga,L 1-3,1,3,-2,43,1,0,0,0,Match Report
+248,Sevilla,2024-02-25,@,Real Madrid,es La Liga,L 0-1,0,1,-1,36,0,0,0,0,Match Report
+249,Cádiz,2024-02-25,,Celta Vigo,es La Liga,D 2-2,2,2,0,65,2,0,0,0,Match Report
+250,Celta Vigo,2024-02-25,@,Cádiz,es La Liga,D 2-2,2,2,0,35,2,0,0,0,Match Report
+251,Betis,2024-02-25,,Athletic Club,es La Liga,W 3-1,3,1,2,57,2,0,0,0,Match Report
+252,Real Madrid,2024-02-25,,Sevilla,es La Liga,W 1-0,1,0,1,64,1,0,0,0,Match Report
+253,Barcelona,2024-02-24,,Getafe,es La Liga,W 4-0,4,0,4,67,4,0,0,0,Match Report
+254,Mallorca,2024-02-24,@,Alavés,es La Liga,D 1-1,1,1,0,48,1,0,0,0,Match Report
+255,Getafe,2024-02-24,@,Barcelona,es La Liga,L 0-4,0,4,-4,33,0,0,0,0,Match Report
+256,Almería,2024-02-24,,Atlético Madrid,es La Liga,D 2-2,2,2,0,40,2,0,0,0,Match Report
+257,Alavés,2024-02-24,,Mallorca,es La Liga,D 1-1,1,1,0,52,1,0,0,0,Match Report
+258,Atlético Madrid,2024-02-24,@,Almería,es La Liga,D 2-2,2,2,0,60,2,0,0,0,Match Report
+259,Villarreal,2024-02-23,@,Real Sociedad,es La Liga,W 3-1,3,1,2,30,3,0,0,0,Match Report
+260,Real Sociedad,2024-02-23,,Villarreal,es La Liga,L 1-3,1,3,-2,70,1,0,0,0,Match Report
+261,Athletic Club,2024-02-19,,Girona,es La Liga,W 3-2,3,2,1,31,3,0,0,0,Match Report
+262,Girona,2024-02-19,@,Athletic Club,es La Liga,L 2-3,2,3,-1,69,2,0,0,0,Match Report
+263,Mallorca,2024-02-18,,Real Sociedad,es La Liga,L 1-2,1,2,-1,33,1,0,0,0,Match Report
+264,Almería,2024-02-18,@,Granada,es La Liga,D 1-1,1,1,0,42,1,0,0,0,Match Report
+265,Alavés,2024-02-18,@,Betis,es La Liga,D 0-0,0,0,0,38,0,0,0,0,Match Report
+266,Rayo Vallecano,2024-02-18,,Real Madrid,es La Liga,D 1-1,1,1,0,41,0,1,1,0,Match Report
+267,Granada,2024-02-18,,Almería,es La Liga,D 1-1,1,1,0,58,1,0,0,0,Match Report
+268,Real Sociedad,2024-02-18,@,Mallorca,es La Liga,W 2-1,2,1,1,67,2,0,0,0,Match Report
+269,Betis,2024-02-18,,Alavés,es La Liga,D 0-0,0,0,0,62,0,0,0,0,Match Report
+270,Real Madrid,2024-02-18,@,Rayo Vallecano,es La Liga,D 1-1,1,1,0,59,1,0,0,0,Match Report
+271,Las Palmas,2024-02-17,@,Atlético Madrid,es La Liga,L 0-5,0,5,-5,64,0,0,0,0,Match Report
+272,Osasuna,2024-02-17,,Cádiz,es La Liga,W 2-0,2,0,2,56,2,0,0,0,Match Report
+273,Barcelona,2024-02-17,@,Celta Vigo,es La Liga,W 2-1,2,1,1,66,1,1,1,0,Match Report
+274,Sevilla,2024-02-17,@,Valencia,es La Liga,D 0-0,0,0,0,46,0,0,0,0,Match Report
+275,Atlético Madrid,2024-02-17,,Las Palmas,es La Liga,W 5-0,5,0,5,36,4,1,1,0,Match Report
+276,Valencia,2024-02-17,,Sevilla,es La Liga,D 0-0,0,0,0,54,0,0,0,0,Match Report
+277,Cádiz,2024-02-17,@,Osasuna,es La Liga,L 0-2,0,2,-2,44,0,0,0,0,Match Report
+278,Celta Vigo,2024-02-17,,Barcelona,es La Liga,L 1-2,1,2,-1,34,1,0,0,0,Match Report
+279,Villarreal,2024-02-16,,Getafe,es La Liga,D 1-1,1,1,0,55,1,0,0,0,Match Report
+280,Getafe,2024-02-16,@,Villarreal,es La Liga,D 1-1,1,1,0,45,1,0,0,0,Match Report
+281,Athletic Club,2024-02-12,@,Almería,es La Liga,D 0-0,0,0,0,61,0,0,0,0,Match Report
+282,Almería,2024-02-12,,Athletic Club,es La Liga,D 0-0,0,0,0,39,0,0,0,0,Match Report
+283,Barcelona,2024-02-11,,Granada,es La Liga,D 3-3,3,3,0,65,3,0,0,0,Match Report
+284,Mallorca,2024-02-11,,Rayo Vallecano,es La Liga,W 2-1,2,1,1,49,2,0,0,0,Match Report
+285,Getafe,2024-02-11,,Celta Vigo,es La Liga,W 3-2,3,2,1,48,3,0,0,0,Match Report
+286,Rayo Vallecano,2024-02-11,@,Mallorca,es La Liga,L 1-2,1,2,-1,51,1,0,0,0,Match Report
+287,Granada,2024-02-11,@,Barcelona,es La Liga,D 3-3,3,3,0,35,3,0,0,0,Match Report
+288,Sevilla,2024-02-11,,Atlético Madrid,es La Liga,W 1-0,1,0,1,39,1,0,0,0,Match Report
+289,Atlético Madrid,2024-02-11,@,Sevilla,es La Liga,L 0-1,0,1,-1,61,0,0,0,0,Match Report
+290,Celta Vigo,2024-02-11,@,Getafe,es La Liga,L 2-3,2,3,-1,52,2,0,0,0,Match Report
+291,Las Palmas,2024-02-10,,Valencia,es La Liga,W 2-0,2,0,2,72,2,0,0,0,Match Report
+292,Osasuna,2024-02-10,@,Real Sociedad,es La Liga,W 1-0,1,0,1,32,1,0,0,0,Match Report
+293,Villarreal,2024-02-10,@,Alavés,es La Liga,D 1-1,1,1,0,49,1,0,0,0,Match Report
+294,Alavés,2024-02-10,,Villarreal,es La Liga,D 1-1,1,1,0,51,1,0,0,0,Match Report
+295,Girona,2024-02-10,@,Real Madrid,es La Liga,L 0-4,0,4,-4,47,0,0,0,0,Match Report
+296,Valencia,2024-02-10,@,Las Palmas,es La Liga,L 0-2,0,2,-2,28,0,0,0,0,Match Report
+297,Real Sociedad,2024-02-10,,Osasuna,es La Liga,L 0-1,0,1,-1,68,0,0,0,0,Match Report
+298,Real Madrid,2024-02-10,,Girona,es La Liga,W 4-0,4,0,4,53,4,0,1,1,Match Report
+299,Cádiz,2024-02-09,,Betis,es La Liga,L 0-2,0,2,-2,53,0,0,0,0,Match Report
+300,Betis,2024-02-09,@,Cádiz,es La Liga,W 2-0,2,0,2,47,2,0,0,0,Match Report
+301,Rayo Vallecano,2024-02-05,,Sevilla,es La Liga,L 1-2,1,2,-1,66,1,0,0,0,Match Report
+302,Sevilla,2024-02-05,@,Rayo Vallecano,es La Liga,W 2-1,2,1,1,34,2,0,0,0,Match Report
+303,Osasuna,2024-02-04,,Celta Vigo,es La Liga,L 0-3,0,3,-3,70,0,0,0,0,Match Report
+304,Villarreal,2024-02-04,,Cádiz,es La Liga,D 0-0,0,0,0,59,0,0,0,0,Match Report
+305,Getafe,2024-02-04,@,Betis,es La Liga,D 1-1,1,1,0,46,0,1,1,0,Match Report
+306,Atlético Madrid,2024-02-04,@,Real Madrid,es La Liga,D 1-1,1,1,0,46,1,0,0,0,Match Report
+307,Cádiz,2024-02-04,@,Villarreal,es La Liga,D 0-0,0,0,0,41,0,0,0,0,Match Report
+308,Celta Vigo,2024-02-04,@,Osasuna,es La Liga,W 3-0,3,0,3,30,3,0,0,0,Match Report
+309,Betis,2024-02-04,,Getafe,es La Liga,D 1-1,1,1,0,54,0,1,1,0,Match Report
+310,Real Madrid,2024-02-04,,Atlético Madrid,es La Liga,D 1-1,1,1,0,54,1,0,0,0,Match Report
+311,Las Palmas,2024-02-03,@,Granada,es La Liga,D 1-1,1,1,0,77,1,0,0,0,Match Report
+312,Barcelona,2024-02-03,@,Alavés,es La Liga,W 3-1,3,1,2,64,3,0,0,0,Match Report
+313,Almería,2024-02-03,@,Valencia,es La Liga,L 1-2,1,2,-1,52,1,0,0,0,Match Report
+314,Alavés,2024-02-03,,Barcelona,es La Liga,L 1-3,1,3,-2,36,1,0,0,0,Match Report
+315,Girona,2024-02-03,,Real Sociedad,es La Liga,D 0-0,0,0,0,49,0,0,0,0,Match Report
+316,Granada,2024-02-03,,Las Palmas,es La Liga,D 1-1,1,1,0,23,1,0,0,0,Match Report
+317,Valencia,2024-02-03,,Almería,es La Liga,W 2-1,2,1,1,48,2,0,1,1,Match Report
+318,Real Sociedad,2024-02-03,@,Girona,es La Liga,D 0-0,0,0,0,51,0,0,0,0,Match Report
+319,Mallorca,2024-02-02,@,Athletic Club,es La Liga,L 0-4,0,4,-4,38,0,0,0,0,Match Report
+320,Athletic Club,2024-02-02,,Mallorca,es La Liga,W 4-0,4,0,4,62,4,0,0,0,Match Report
+321,Getafe,2024-02-01,,Real Madrid,es La Liga,L 0-2,0,2,-2,42,0,0,0,0,Match Report
+322,Real Madrid,2024-02-01,@,Getafe,es La Liga,W 2-0,2,0,2,58,2,0,0,0,Match Report
+323,Osasuna,2024-01-31,@,Barcelona,es La Liga,L 0-1,0,1,-1,32,0,0,0,0,Match Report
+324,Barcelona,2024-01-31,,Osasuna,es La Liga,W 1-0,1,0,1,68,1,0,0,0,Match Report
+325,Rayo Vallecano,2024-01-31,@,Atlético Madrid,es La Liga,L 1-2,1,2,-1,46,1,0,0,0,Match Report
+326,Atlético Madrid,2024-01-31,,Rayo Vallecano,es La Liga,W 2-1,2,1,1,54,2,0,0,0,Match Report
+327,Getafe,2024-01-29,,Granada,es La Liga,W 2-0,2,0,2,40,2,0,0,0,Match Report
+328,Granada,2024-01-29,@,Getafe,es La Liga,L 0-2,0,2,-2,60,0,0,1,1,Match Report
+329,Osasuna,2024-01-28,@,Sevilla,es La Liga,D 1-1,1,1,0,56,1,0,0,0,Match Report
+330,Athletic Club,2024-01-28,@,Cádiz,es La Liga,D 0-0,0,0,0,57,0,0,0,0,Match Report
+331,Girona,2024-01-28,@,Celta Vigo,es La Liga,W 1-0,1,0,1,60,1,0,0,0,Match Report
+332,Sevilla,2024-01-28,,Osasuna,es La Liga,D 1-1,1,1,0,44,1,0,0,0,Match Report
+333,Atlético Madrid,2024-01-28,,Valencia,es La Liga,W 2-0,2,0,2,54,2,0,0,0,Match Report
+334,Valencia,2024-01-28,@,Atlético Madrid,es La Liga,L 0-2,0,2,-2,46,0,0,0,0,Match Report
+335,Cádiz,2024-01-28,,Athletic Club,es La Liga,D 0-0,0,0,0,43,0,0,0,0,Match Report
+336,Celta Vigo,2024-01-28,,Girona,es La Liga,L 0-1,0,1,-1,40,0,0,0,0,Match Report
+337,Las Palmas,2024-01-27,,Real Madrid,es La Liga,L 1-2,1,2,-1,53,1,0,0,0,Match Report
+338,Barcelona,2024-01-27,,Villarreal,es La Liga,L 3-5,3,5,-2,70,2,0,0,0,Match Report
+339,Villarreal,2024-01-27,@,Barcelona,es La Liga,W 5-3,5,3,2,30,5,0,0,0,Match Report
+340,Mallorca,2024-01-27,,Betis,es La Liga,L 0-1,0,1,-1,53,0,0,0,0,Match Report
+341,Rayo Vallecano,2024-01-27,@,Real Sociedad,es La Liga,D 0-0,0,0,0,49,0,0,0,0,Match Report
+342,Real Sociedad,2024-01-27,,Rayo Vallecano,es La Liga,D 0-0,0,0,0,51,0,0,0,0,Match Report
+343,Betis,2024-01-27,@,Mallorca,es La Liga,W 1-0,1,0,1,47,1,0,0,0,Match Report
+344,Real Madrid,2024-01-27,@,Las Palmas,es La Liga,W 2-1,2,1,1,47,2,0,0,0,Match Report
+345,Almería,2024-01-26,,Alavés,es La Liga,L 0-3,0,3,-3,64,0,0,0,0,Match Report
+346,Alavés,2024-01-26,@,Almería,es La Liga,W 3-0,3,0,3,36,2,1,1,0,Match Report
+347,Granada,2024-01-22,,Atlético Madrid,es La Liga,L 0-1,0,1,-1,53,0,0,0,0,Match Report
+348,Atlético Madrid,2024-01-22,@,Granada,es La Liga,W 1-0,1,0,1,47,1,0,0,0,Match Report
+349,Osasuna,2024-01-21,,Getafe,es La Liga,W 3-2,3,2,1,43,3,0,0,0,Match Report
+350,Barcelona,2024-01-21,@,Betis,es La Liga,W 4-2,4,2,2,63,4,0,0,0,Match Report
+351,Getafe,2024-01-21,@,Osasuna,es La Liga,L 2-3,2,3,-1,57,2,0,0,0,Match Report
+352,Almería,2024-01-21,@,Real Madrid,es La Liga,L 2-3,2,3,-1,27,2,0,0,0,Match Report
+353,Girona,2024-01-21,,Sevilla,es La Liga,W 5-1,5,1,4,55,5,0,0,0,Match Report
+354,Sevilla,2024-01-21,@,Girona,es La Liga,L 1-5,1,5,-4,45,1,0,0,0,Match Report
+355,Betis,2024-01-21,,Barcelona,es La Liga,L 2-4,2,4,-2,37,2,0,0,0,Match Report
+356,Real Madrid,2024-01-21,,Almería,es La Liga,W 3-2,3,2,1,73,2,1,1,0,Match Report
+357,Las Palmas,2024-01-20,@,Rayo Vallecano,es La Liga,W 2-0,2,0,2,55,2,0,0,0,Match Report
+358,Villarreal,2024-01-20,,Mallorca,es La Liga,D 1-1,1,1,0,51,1,0,0,0,Match Report
+359,Mallorca,2024-01-20,@,Villarreal,es La Liga,D 1-1,1,1,0,49,1,0,0,0,Match Report
+360,Athletic Club,2024-01-20,@,Valencia,es La Liga,L 0-1,0,1,-1,60,0,0,0,0,Match Report
+361,Rayo Vallecano,2024-01-20,,Las Palmas,es La Liga,L 0-2,0,2,-2,45,0,0,0,0,Match Report
+362,Valencia,2024-01-20,,Athletic Club,es La Liga,W 1-0,1,0,1,40,1,0,0,0,Match Report
+363,Real Sociedad,2024-01-20,@,Celta Vigo,es La Liga,W 1-0,1,0,1,51,1,0,0,0,Match Report
+364,Celta Vigo,2024-01-20,,Real Sociedad,es La Liga,L 0-1,0,1,-1,49,0,0,0,0,Match Report
+365,Alavés,2024-01-19,,Cádiz,es La Liga,W 1-0,1,0,1,49,0,1,1,0,Match Report
+366,Cádiz,2024-01-19,@,Alavés,es La Liga,L 0-1,0,1,-1,51,0,0,0,0,Match Report
+367,Almería,2024-01-14,,Girona,es La Liga,D 0-0,0,0,0,46,0,0,0,0,Match Report
+368,Girona,2024-01-14,@,Almería,es La Liga,D 0-0,0,0,0,54,0,0,0,0,Match Report
+369,Valencia,2024-01-14,@,Cádiz,es La Liga,W 4-1,4,1,3,43,4,0,0,0,Match Report
+370,Cádiz,2024-01-14,,Valencia,es La Liga,L 1-4,1,4,-3,57,0,1,1,0,Match Report
+371,Las Palmas,2024-01-13,,Villarreal,es La Liga,W 3-0,3,0,3,54,3,0,0,0,Match Report
+372,Villarreal,2024-01-13,@,Las Palmas,es La Liga,L 0-3,0,3,-3,46,0,0,0,0,Match Report
+373,Mallorca,2024-01-13,,Celta Vigo,es La Liga,D 1-1,1,1,0,57,1,0,0,0,Match Report
+374,Athletic Club,2024-01-13,,Real Sociedad,es La Liga,W 2-1,2,1,1,49,2,0,0,0,Match Report
+375,Granada,2024-01-13,@,Betis,es La Liga,L 0-1,0,1,-1,43,0,0,0,0,Match Report
+376,Real Sociedad,2024-01-13,@,Athletic Club,es La Liga,L 1-2,1,2,-1,51,1,0,0,0,Match Report
+377,Celta Vigo,2024-01-13,@,Mallorca,es La Liga,D 1-1,1,1,0,43,1,0,0,0,Match Report
+378,Betis,2024-01-13,,Granada,es La Liga,W 1-0,1,0,1,57,1,0,0,0,Match Report
+379,Alavés,2024-01-12,@,Sevilla,es La Liga,W 3-2,3,2,1,32,3,0,0,0,Match Report
+380,Sevilla,2024-01-12,,Alavés,es La Liga,L 2-3,2,3,-1,68,1,1,1,0,Match Report
+381,Las Palmas,2024-01-04,,Barcelona,es La Liga,L 1-2,1,2,-1,44,1,0,0,0,Match Report
+382,Osasuna,2024-01-04,,Almería,es La Liga,W 1-0,1,0,1,52,1,0,0,0,Match Report
+383,Barcelona,2024-01-04,@,Las Palmas,es La Liga,W 2-1,2,1,1,56,1,1,1,0,Match Report
+384,Athletic Club,2024-01-04,@,Sevilla,es La Liga,W 2-0,2,0,2,39,2,0,0,0,Match Report
+385,Almería,2024-01-04,@,Osasuna,es La Liga,L 0-1,0,1,-1,48,0,0,0,0,Match Report
+386,Sevilla,2024-01-04,,Athletic Club,es La Liga,L 0-2,0,2,-2,61,0,0,0,0,Match Report
+387,Mallorca,2024-01-03,@,Real Madrid,es La Liga,L 0-1,0,1,-1,33,0,0,0,0,Match Report
+388,Girona,2024-01-03,,Atlético Madrid,es La Liga,W 4-3,4,3,1,52,4,0,0,0,Match Report
+389,Granada,2024-01-03,,Cádiz,es La Liga,W 2-0,2,0,2,55,2,0,0,0,Match Report
+390,Atlético Madrid,2024-01-03,@,Girona,es La Liga,L 3-4,3,4,-1,48,3,0,0,0,Match Report
+391,Cádiz,2024-01-03,@,Granada,es La Liga,L 0-2,0,2,-2,45,0,0,0,0,Match Report
+392,Celta Vigo,2024-01-03,,Betis,es La Liga,W 2-1,2,1,1,40,1,1,1,0,Match Report
+393,Betis,2024-01-03,@,Celta Vigo,es La Liga,L 1-2,1,2,-1,60,1,0,0,0,Match Report
+394,Real Madrid,2024-01-03,,Mallorca,es La Liga,W 1-0,1,0,1,67,1,0,0,0,Match Report
+395,Villarreal,2024-01-02,@,Valencia,es La Liga,L 1-3,1,3,-2,54,1,0,0,0,Match Report
+396,Getafe,2024-01-02,,Rayo Vallecano,es La Liga,L 0-2,0,2,-2,38,0,0,0,0,Match Report
+397,Alavés,2024-01-02,@,Real Sociedad,es La Liga,D 1-1,1,1,0,47,0,1,1,0,Match Report
+398,Rayo Vallecano,2024-01-02,@,Getafe,es La Liga,W 2-0,2,0,2,62,2,0,0,0,Match Report
+399,Valencia,2024-01-02,,Villarreal,es La Liga,W 3-1,3,1,2,46,1,2,2,0,Match Report
+400,Real Sociedad,2024-01-02,,Alavés,es La Liga,D 1-1,1,1,0,53,1,0,0,0,Match Report
+401,Sevilla,2023-12-23,@,Atlético Madrid,es La Liga,L 0-1,0,1,-1,50,0,0,0,0,Match Report
+402,Atlético Madrid,2023-12-23,,Sevilla,es La Liga,W 1-0,1,0,1,50,1,0,0,0,Match Report
+403,Osasuna,2023-12-21,@,Mallorca,es La Liga,L 2-3,2,3,-1,58,2,0,0,0,Match Report
+404,Mallorca,2023-12-21,,Osasuna,es La Liga,W 3-2,3,2,1,42,3,0,0,0,Match Report
+405,Alavés,2023-12-21,,Real Madrid,es La Liga,L 0-1,0,1,-1,40,0,0,0,0,Match Report
+406,Girona,2023-12-21,@,Betis,es La Liga,D 1-1,1,1,0,53,0,1,1,0,Match Report
+407,Real Sociedad,2023-12-21,@,Cádiz,es La Liga,D 0-0,0,0,0,60,0,0,0,0,Match Report
+408,Cádiz,2023-12-21,,Real Sociedad,es La Liga,D 0-0,0,0,0,40,0,0,0,0,Match Report
+409,Betis,2023-12-21,,Girona,es La Liga,D 1-1,1,1,0,47,1,0,0,0,Match Report
+410,Real Madrid,2023-12-21,@,Alavés,es La Liga,W 1-0,1,0,1,60,1,0,0,0,Match Report
+411,Las Palmas,2023-12-20,@,Athletic Club,es La Liga,L 0-1,0,1,-1,50,0,0,0,0,Match Report
+412,Barcelona,2023-12-20,,Almería,es La Liga,W 3-2,3,2,1,65,3,0,0,0,Match Report
+413,Villarreal,2023-12-20,,Celta Vigo,es La Liga,W 3-2,3,2,1,49,2,1,1,0,Match Report
+414,Athletic Club,2023-12-20,,Las Palmas,es La Liga,W 1-0,1,0,1,50,1,0,1,1,Match Report
+415,Almería,2023-12-20,@,Barcelona,es La Liga,L 2-3,2,3,-1,35,2,0,0,0,Match Report
+416,Celta Vigo,2023-12-20,@,Villarreal,es La Liga,L 2-3,2,3,-1,51,2,0,0,0,Match Report
+417,Getafe,2023-12-19,@,Atlético Madrid,es La Liga,D 3-3,3,3,0,58,2,1,1,0,Match Report
+418,Rayo Vallecano,2023-12-19,,Valencia,es La Liga,L 0-1,0,1,-1,59,0,0,0,0,Match Report
+419,Granada,2023-12-19,,Sevilla,es La Liga,L 0-3,0,3,-3,52,0,0,0,0,Match Report
+420,Sevilla,2023-12-19,@,Granada,es La Liga,W 3-0,3,0,3,48,3,0,0,0,Match Report
+421,Atlético Madrid,2023-12-19,,Getafe,es La Liga,D 3-3,3,3,0,42,2,1,1,0,Match Report
+422,Valencia,2023-12-19,@,Rayo Vallecano,es La Liga,W 1-0,1,0,1,41,1,0,0,0,Match Report
+423,Alavés,2023-12-18,@,Girona,es La Liga,L 0-3,0,3,-3,34,0,0,0,0,Match Report
+424,Girona,2023-12-18,,Alavés,es La Liga,W 3-0,3,0,3,66,2,1,1,0,Match Report
+425,Las Palmas,2023-12-17,,Cádiz,es La Liga,D 1-1,1,1,0,64,1,0,0,0,Match Report
+426,Villarreal,2023-12-17,@,Real Madrid,es La Liga,L 1-4,1,4,-3,40,1,0,0,0,Match Report
+427,Mallorca,2023-12-17,@,Almería,es La Liga,D 0-0,0,0,0,47,0,0,0,0,Match Report
+428,Almería,2023-12-17,,Mallorca,es La Liga,D 0-0,0,0,0,53,0,0,0,0,Match Report
+429,Real Sociedad,2023-12-17,,Betis,es La Liga,D 0-0,0,0,0,57,0,0,0,0,Match Report
+430,Cádiz,2023-12-17,@,Las Palmas,es La Liga,D 1-1,1,1,0,36,1,0,0,0,Match Report
+431,Betis,2023-12-17,@,Real Sociedad,es La Liga,D 0-0,0,0,0,43,0,0,0,0,Match Report
+432,Real Madrid,2023-12-17,,Villarreal,es La Liga,W 4-1,4,1,3,60,4,0,0,0,Match Report
+433,Barcelona,2023-12-16,@,Valencia,es La Liga,D 1-1,1,1,0,63,1,0,0,0,Match Report
+434,Athletic Club,2023-12-16,,Atlético Madrid,es La Liga,W 2-0,2,0,2,38,2,0,1,1,Match Report
+435,Getafe,2023-12-16,@,Sevilla,es La Liga,W 3-0,3,0,3,43,1,2,2,0,Match Report
+436,Granada,2023-12-16,@,Celta Vigo,es La Liga,L 0-1,0,1,-1,61,0,0,0,0,Match Report
+437,Sevilla,2023-12-16,,Getafe,es La Liga,L 0-3,0,3,-3,57,0,0,0,0,Match Report
+438,Atlético Madrid,2023-12-16,@,Athletic Club,es La Liga,L 0-2,0,2,-2,62,0,0,0,0,Match Report
+439,Valencia,2023-12-16,,Barcelona,es La Liga,D 1-1,1,1,0,37,1,0,0,0,Match Report
+440,Celta Vigo,2023-12-16,,Granada,es La Liga,W 1-0,1,0,1,39,1,0,0,0,Match Report
+441,Osasuna,2023-12-15,,Rayo Vallecano,es La Liga,W 1-0,1,0,1,60,1,0,0,0,Match Report
+442,Rayo Vallecano,2023-12-15,@,Osasuna,es La Liga,L 0-1,0,1,-1,40,0,0,0,0,Match Report
+443,Athletic Club,2023-12-11,@,Granada,es La Liga,D 1-1,1,1,0,52,1,0,0,0,Match Report
+444,Rayo Vallecano,2023-12-11,,Celta Vigo,es La Liga,D 0-0,0,0,0,63,0,0,0,0,Match Report
+445,Granada,2023-12-11,,Athletic Club,es La Liga,D 1-1,1,1,0,48,0,0,0,0,Match Report
+446,Celta Vigo,2023-12-11,@,Rayo Vallecano,es La Liga,D 0-0,0,0,0,37,0,0,0,0,Match Report
+447,Osasuna,2023-12-10,@,Cádiz,es La Liga,D 1-1,1,1,0,55,0,1,1,0,Match Report
+448,Barcelona,2023-12-10,,Girona,es La Liga,L 2-4,2,4,-2,54,2,0,0,0,Match Report
+449,Almería,2023-12-10,@,Atlético Madrid,es La Liga,L 1-2,1,2,-1,43,1,0,0,0,Match Report
+450,Girona,2023-12-10,@,Barcelona,es La Liga,W 4-2,4,2,2,46,4,0,0,0,Match Report
+451,Atlético Madrid,2023-12-10,,Almería,es La Liga,W 2-1,2,1,1,57,2,0,0,0,Match Report
+452,Cádiz,2023-12-10,,Osasuna,es La Liga,D 1-1,1,1,0,45,1,0,0,0,Match Report
+453,Las Palmas,2023-12-09,@,Alavés,es La Liga,W 1-0,1,0,1,59,1,0,0,0,Match Report
+454,Villarreal,2023-12-09,,Real Sociedad,es La Liga,L 0-3,0,3,-3,53,0,0,0,0,Match Report
+455,Mallorca,2023-12-09,,Sevilla,es La Liga,W 1-0,1,0,1,35,1,0,0,0,Match Report
+456,Alavés,2023-12-09,,Las Palmas,es La Liga,L 0-1,0,1,-1,41,0,0,0,0,Match Report
+457,Sevilla,2023-12-09,@,Mallorca,es La Liga,L 0-1,0,1,-1,65,0,0,0,0,Match Report
+458,Real Sociedad,2023-12-09,@,Villarreal,es La Liga,W 3-0,3,0,3,47,3,0,0,0,Match Report
+459,Betis,2023-12-09,,Real Madrid,es La Liga,D 1-1,1,1,0,37,1,0,0,0,Match Report
+460,Real Madrid,2023-12-09,@,Betis,es La Liga,D 1-1,1,1,0,63,1,0,0,0,Match Report
+461,Getafe,2023-12-08,,Valencia,es La Liga,W 1-0,1,0,1,67,1,0,0,0,Match Report
+462,Valencia,2023-12-08,@,Getafe,es La Liga,L 0-1,0,1,-1,33,0,0,0,0,Match Report
+463,Cádiz,2023-12-04,@,Celta Vigo,es La Liga,D 1-1,1,1,0,32,1,0,0,0,Match Report
+464,Celta Vigo,2023-12-04,,Cádiz,es La Liga,D 1-1,1,1,0,68,1,0,0,0,Match Report
+465,Barcelona,2023-12-03,,Atlético Madrid,es La Liga,W 1-0,1,0,1,58,1,0,0,0,Match Report
+466,Villarreal,2023-12-03,@,Sevilla,es La Liga,D 1-1,1,1,0,43,1,0,0,0,Match Report
+467,Mallorca,2023-12-03,,Alavés,es La Liga,D 0-0,0,0,0,63,0,0,0,0,Match Report
+468,Almería,2023-12-03,,Betis,es La Liga,D 0-0,0,0,0,62,0,0,0,0,Match Report
+469,Alavés,2023-12-03,@,Mallorca,es La Liga,D 0-0,0,0,0,37,0,0,0,0,Match Report
+470,Sevilla,2023-12-03,,Villarreal,es La Liga,D 1-1,1,1,0,57,1,0,0,0,Match Report
+471,Atlético Madrid,2023-12-03,@,Barcelona,es La Liga,L 0-1,0,1,-1,42,0,0,0,0,Match Report
+472,Betis,2023-12-03,@,Almería,es La Liga,D 0-0,0,0,0,38,0,0,0,0,Match Report
+473,Osasuna,2023-12-02,,Real Sociedad,es La Liga,D 1-1,1,1,0,29,1,0,0,0,Match Report
+474,Athletic Club,2023-12-02,,Rayo Vallecano,es La Liga,W 4-0,4,0,4,51,3,0,0,0,Match Report
+475,Girona,2023-12-02,,Valencia,es La Liga,W 2-1,2,1,1,75,2,0,0,0,Match Report
+476,Rayo Vallecano,2023-12-02,@,Athletic Club,es La Liga,L 0-4,0,4,-4,49,0,0,0,0,Match Report
+477,Granada,2023-12-02,@,Real Madrid,es La Liga,L 0-2,0,2,-2,29,0,0,0,0,Match Report
+478,Valencia,2023-12-02,@,Girona,es La Liga,L 1-2,1,2,-1,25,1,0,0,0,Match Report
+479,Real Sociedad,2023-12-02,@,Osasuna,es La Liga,D 1-1,1,1,0,71,1,0,0,0,Match Report
+480,Real Madrid,2023-12-02,,Granada,es La Liga,W 2-0,2,0,2,71,2,0,0,0,Match Report
+481,Las Palmas,2023-12-01,,Getafe,es La Liga,W 2-0,2,0,2,70,2,0,0,0,Match Report
+482,Getafe,2023-12-01,@,Las Palmas,es La Liga,L 0-2,0,2,-2,30,0,0,0,0,Match Report
+483,Mallorca,2023-11-29,,Cádiz,es La Liga,D 1-1,1,1,0,67,1,0,0,0,Match Report
+484,Cádiz,2023-11-29,@,Mallorca,es La Liga,D 1-1,1,1,0,33,1,0,0,0,Match Report
+485,Athletic Club,2023-11-27,@,Girona,es La Liga,D 1-1,1,1,0,40,1,0,0,0,Match Report
+486,Girona,2023-11-27,,Athletic Club,es La Liga,D 1-1,1,1,0,60,1,0,0,0,Match Report
+487,Las Palmas,2023-11-26,@,Betis,es La Liga,L 0-1,0,1,-1,61,0,0,0,0,Match Report
+488,Osasuna,2023-11-26,@,Villarreal,es La Liga,L 1-3,1,3,-2,55,1,0,0,0,Match Report
+489,Villarreal,2023-11-26,,Osasuna,es La Liga,W 3-1,3,1,2,45,3,0,0,0,Match Report
+490,Sevilla,2023-11-26,@,Real Sociedad,es La Liga,L 1-2,1,2,-1,51,1,0,0,0,Match Report
+491,Real Sociedad,2023-11-26,,Sevilla,es La Liga,W 2-1,2,1,1,49,1,0,0,0,Match Report
+492,Cádiz,2023-11-26,,Real Madrid,es La Liga,L 0-3,0,3,-3,39,0,0,0,0,Match Report
+493,Betis,2023-11-26,,Las Palmas,es La Liga,W 1-0,1,0,1,39,1,0,0,0,Match Report
+494,Real Madrid,2023-11-26,@,Cádiz,es La Liga,W 3-0,3,0,3,61,3,0,0,0,Match Report
+495,Barcelona,2023-11-25,@,Rayo Vallecano,es La Liga,D 1-1,1,1,0,67,0,0,0,0,Match Report
+496,Mallorca,2023-11-25,@,Atlético Madrid,es La Liga,L 0-1,0,1,-1,32,0,0,0,0,Match Report
+497,Getafe,2023-11-25,,Almería,es La Liga,W 2-1,2,1,1,53,2,0,0,0,Match Report
+498,Almería,2023-11-25,@,Getafe,es La Liga,L 1-2,1,2,-1,47,1,0,0,0,Match Report
+499,Rayo Vallecano,2023-11-25,,Barcelona,es La Liga,D 1-1,1,1,0,33,1,0,0,0,Match Report
+500,Atlético Madrid,2023-11-25,,Mallorca,es La Liga,W 1-0,1,0,1,68,1,0,0,0,Match Report
+501,Valencia,2023-11-25,,Celta Vigo,es La Liga,D 0-0,0,0,0,55,0,0,0,0,Match Report
+502,Celta Vigo,2023-11-25,@,Valencia,es La Liga,D 0-0,0,0,0,45,0,0,0,0,Match Report
+503,Alavés,2023-11-24,,Granada,es La Liga,W 3-1,3,1,2,43,2,0,0,0,Match Report
+504,Granada,2023-11-24,@,Alavés,es La Liga,L 1-3,1,3,-2,57,0,1,1,0,Match Report
+505,Barcelona,2023-11-12,,Alavés,es La Liga,W 2-1,2,1,1,71,1,1,1,0,Match Report
+506,Villarreal,2023-11-12,@,Atlético Madrid,es La Liga,L 1-3,1,3,-2,50,1,0,0,0,Match Report
+507,Alavés,2023-11-12,@,Barcelona,es La Liga,L 1-2,1,2,-1,29,1,0,0,0,Match Report
+508,Sevilla,2023-11-12,,Betis,es La Liga,D 1-1,1,1,0,61,1,0,0,0,Match Report
+509,Atlético Madrid,2023-11-12,,Villarreal,es La Liga,W 3-1,3,1,2,50,3,0,0,0,Match Report
+510,Betis,2023-11-12,@,Sevilla,es La Liga,D 1-1,1,1,0,39,1,0,0,0,Match Report
+511,Las Palmas,2023-11-11,@,Osasuna,es La Liga,D 1-1,1,1,0,54,1,0,0,0,Match Report
+512,Osasuna,2023-11-11,,Las Palmas,es La Liga,D 1-1,1,1,0,46,1,0,0,0,Match Report
+513,Getafe,2023-11-11,@,Granada,es La Liga,D 1-1,1,1,0,42,1,0,0,0,Match Report
+514,Almería,2023-11-11,,Real Sociedad,es La Liga,L 1-3,1,3,-2,47,1,0,0,0,Match Report
+515,Girona,2023-11-11,@,Rayo Vallecano,es La Liga,W 2-1,2,1,1,54,2,0,0,0,Match Report
+516,Rayo Vallecano,2023-11-11,,Girona,es La Liga,L 1-2,1,2,-1,46,1,0,0,0,Match Report
+517,Granada,2023-11-11,,Getafe,es La Liga,D 1-1,1,1,0,58,1,0,0,0,Match Report
+518,Valencia,2023-11-11,@,Real Madrid,es La Liga,L 1-5,1,5,-4,44,1,0,0,0,Match Report
+519,Real Sociedad,2023-11-11,@,Almería,es La Liga,W 3-1,3,1,2,53,2,1,1,0,Match Report
+520,Real Madrid,2023-11-11,,Valencia,es La Liga,W 5-1,5,1,4,56,5,0,0,0,Match Report
+521,Athletic Club,2023-11-10,,Celta Vigo,es La Liga,W 4-3,4,3,1,58,3,1,1,0,Match Report
+522,Celta Vigo,2023-11-10,@,Athletic Club,es La Liga,L 3-4,3,4,-1,42,3,0,1,1,Match Report
+523,Getafe,2023-11-06,,Cádiz,es La Liga,W 1-0,1,0,1,45,1,0,0,0,Match Report
+524,Cádiz,2023-11-06,@,Getafe,es La Liga,L 0-1,0,1,-1,55,0,0,0,0,Match Report
+525,Villarreal,2023-11-05,,Athletic Club,es La Liga,L 2-3,2,3,-1,58,2,0,0,0,Match Report
+526,Athletic Club,2023-11-05,@,Villarreal,es La Liga,W 3-2,3,2,1,43,3,0,0,0,Match Report
+527,Almería,2023-11-05,@,Alavés,es La Liga,L 0-1,0,1,-1,44,0,0,0,0,Match Report
+528,Alavés,2023-11-05,,Almería,es La Liga,W 1-0,1,0,1,56,1,0,1,1,Match Report
+529,Rayo Vallecano,2023-11-05,@,Real Madrid,es La Liga,D 0-0,0,0,0,37,0,0,0,0,Match Report
+530,Granada,2023-11-05,@,Valencia,es La Liga,L 0-1,0,1,-1,49,0,0,0,0,Match Report
+531,Valencia,2023-11-05,,Granada,es La Liga,W 1-0,1,0,1,51,0,1,1,0,Match Report
+532,Real Madrid,2023-11-05,,Rayo Vallecano,es La Liga,D 0-0,0,0,0,63,0,0,0,0,Match Report
+533,Osasuna,2023-11-04,,Girona,es La Liga,L 2-4,2,4,-2,50,2,0,0,0,Match Report
+534,Barcelona,2023-11-04,@,Real Sociedad,es La Liga,W 1-0,1,0,1,49,1,0,0,0,Match Report
+535,Mallorca,2023-11-04,@,Betis,es La Liga,L 0-2,0,2,-2,43,0,0,0,0,Match Report
+536,Girona,2023-11-04,@,Osasuna,es La Liga,W 4-2,4,2,2,50,4,0,0,0,Match Report
+537,Sevilla,2023-11-04,@,Celta Vigo,es La Liga,D 1-1,1,1,0,61,1,0,0,0,Match Report
+538,Real Sociedad,2023-11-04,,Barcelona,es La Liga,L 0-1,0,1,-1,51,0,0,0,0,Match Report
+539,Celta Vigo,2023-11-04,,Sevilla,es La Liga,D 1-1,1,1,0,39,1,0,0,0,Match Report
+540,Betis,2023-11-04,,Mallorca,es La Liga,W 2-0,2,0,2,57,2,0,0,0,Match Report
+541,Las Palmas,2023-11-03,,Atlético Madrid,es La Liga,W 2-1,2,1,1,52,2,0,0,0,Match Report
+542,Atlético Madrid,2023-11-03,@,Las Palmas,es La Liga,L 1-2,1,2,-1,48,1,0,0,0,Match Report
+543,Villarreal,2023-10-30,@,Granada,es La Liga,W 3-2,3,2,1,54,2,1,1,0,Match Report
+544,Granada,2023-10-30,,Villarreal,es La Liga,L 2-3,2,3,-1,46,2,0,0,0,Match Report
+545,Osasuna,2023-10-29,@,Betis,es La Liga,L 1-2,1,2,-1,49,1,0,0,0,Match Report
+546,Athletic Club,2023-10-29,,Valencia,es La Liga,D 2-2,2,2,0,57,2,0,0,0,Match Report
+547,Alavés,2023-10-29,@,Atlético Madrid,es La Liga,L 1-2,1,2,-1,37,1,0,0,0,Match Report
+548,Rayo Vallecano,2023-10-29,,Real Sociedad,es La Liga,D 2-2,2,2,0,55,2,0,0,0,Match Report
+549,Atlético Madrid,2023-10-29,,Alavés,es La Liga,W 2-1,2,1,1,63,2,0,0,0,Match Report
+550,Valencia,2023-10-29,@,Athletic Club,es La Liga,D 2-2,2,2,0,43,2,0,0,0,Match Report
+551,Real Sociedad,2023-10-29,@,Rayo Vallecano,es La Liga,D 2-2,2,2,0,45,1,1,1,0,Match Report
+552,Betis,2023-10-29,,Osasuna,es La Liga,W 2-1,2,1,1,51,2,0,0,0,Match Report
+553,Las Palmas,2023-10-28,@,Almería,es La Liga,W 2-1,2,1,1,59,2,0,0,0,Match Report
+554,Barcelona,2023-10-28,,Real Madrid,es La Liga,L 1-2,1,2,-1,53,1,0,0,0,Match Report
+555,Mallorca,2023-10-28,,Getafe,es La Liga,D 0-0,0,0,0,59,0,0,0,0,Match Report
+556,Getafe,2023-10-28,@,Mallorca,es La Liga,D 0-0,0,0,0,41,0,0,0,0,Match Report
+557,Almería,2023-10-28,,Las Palmas,es La Liga,L 1-2,1,2,-1,41,1,0,0,0,Match Report
+558,Sevilla,2023-10-28,@,Cádiz,es La Liga,D 2-2,2,2,0,66,2,0,0,0,Match Report
+559,Cádiz,2023-10-28,,Sevilla,es La Liga,D 2-2,2,2,0,34,2,0,0,0,Match Report
+560,Real Madrid,2023-10-28,@,Barcelona,es La Liga,W 2-1,2,1,1,47,2,0,0,0,Match Report
+561,Girona,2023-10-27,,Celta Vigo,es La Liga,W 1-0,1,0,1,65,1,0,0,0,Match Report
+562,Celta Vigo,2023-10-27,@,Girona,es La Liga,L 0-1,0,1,-1,35,0,0,0,0,Match Report
+563,Valencia,2023-10-23,,Cádiz,es La Liga,W 2-0,2,0,2,61,2,0,0,0,Match Report
+564,Cádiz,2023-10-23,@,Valencia,es La Liga,L 0-2,0,2,-2,39,0,0,0,0,Match Report
+565,Las Palmas,2023-10-22,,Rayo Vallecano,es La Liga,L 0-1,0,1,-1,60,0,0,1,1,Match Report
+566,Barcelona,2023-10-22,,Athletic Club,es La Liga,W 1-0,1,0,1,62,1,0,0,0,Match Report
+567,Villarreal,2023-10-22,,Alavés,es La Liga,D 1-1,1,1,0,68,0,1,1,0,Match Report
+568,Athletic Club,2023-10-22,@,Barcelona,es La Liga,L 0-1,0,1,-1,38,0,0,0,0,Match Report
+569,Almería,2023-10-22,@,Girona,es La Liga,L 2-5,2,5,-3,34,2,0,0,0,Match Report
+570,Alavés,2023-10-22,@,Villarreal,es La Liga,D 1-1,1,1,0,32,1,0,0,0,Match Report
+571,Girona,2023-10-22,,Almería,es La Liga,W 5-2,5,2,3,66,5,0,0,0,Match Report
+572,Rayo Vallecano,2023-10-22,@,Las Palmas,es La Liga,W 1-0,1,0,1,40,0,1,1,0,Match Report
+573,Mallorca,2023-10-21,@,Real Sociedad,es La Liga,L 0-1,0,1,-1,44,0,0,0,0,Match Report
+574,Getafe,2023-10-21,,Betis,es La Liga,D 1-1,1,1,0,45,1,0,0,0,Match Report
+575,Sevilla,2023-10-21,,Real Madrid,es La Liga,D 1-1,1,1,0,49,0,0,0,0,Match Report
+576,Atlético Madrid,2023-10-21,@,Celta Vigo,es La Liga,W 3-0,3,0,3,64,2,1,1,0,Match Report
+577,Real Sociedad,2023-10-21,,Mallorca,es La Liga,W 1-0,1,0,1,56,1,0,0,0,Match Report
+578,Celta Vigo,2023-10-21,,Atlético Madrid,es La Liga,L 0-3,0,3,-3,36,0,0,0,0,Match Report
+579,Betis,2023-10-21,@,Getafe,es La Liga,D 1-1,1,1,0,55,1,0,0,0,Match Report
+580,Real Madrid,2023-10-21,@,Sevilla,es La Liga,D 1-1,1,1,0,51,1,0,0,0,Match Report
+581,Osasuna,2023-10-20,,Granada,es La Liga,W 2-0,2,0,2,58,1,1,1,0,Match Report
+582,Granada,2023-10-20,@,Osasuna,es La Liga,L 0-2,0,2,-2,42,0,0,0,0,Match Report
+583,Las Palmas,2023-10-08,@,Villarreal,es La Liga,W 2-1,2,1,1,51,1,1,1,0,Match Report
+584,Barcelona,2023-10-08,@,Granada,es La Liga,D 2-2,2,2,0,80,2,0,0,0,Match Report
+585,Villarreal,2023-10-08,,Las Palmas,es La Liga,L 1-2,1,2,-1,49,1,0,0,0,Match Report
+586,Getafe,2023-10-08,@,Celta Vigo,es La Liga,D 2-2,2,2,0,26,2,0,0,0,Match Report
+587,Alavés,2023-10-08,,Betis,es La Liga,D 1-1,1,1,0,40,0,0,0,0,Match Report
+588,Granada,2023-10-08,,Barcelona,es La Liga,D 2-2,2,2,0,20,2,0,0,0,Match Report
+589,Atlético Madrid,2023-10-08,,Real Sociedad,es La Liga,W 2-1,2,1,1,38,1,1,1,0,Match Report
+590,Real Sociedad,2023-10-08,@,Atlético Madrid,es La Liga,L 1-2,1,2,-1,62,1,0,0,0,Match Report
+591,Celta Vigo,2023-10-08,,Getafe,es La Liga,D 2-2,2,2,0,74,2,0,1,1,Match Report
+592,Betis,2023-10-08,@,Alavés,es La Liga,D 1-1,1,1,0,60,1,0,0,0,Match Report
+593,Osasuna,2023-10-07,@,Real Madrid,es La Liga,L 0-4,0,4,-4,33,0,0,0,0,Match Report
+594,Mallorca,2023-10-07,,Valencia,es La Liga,D 1-1,1,1,0,49,1,0,0,0,Match Report
+595,Girona,2023-10-07,@,Cádiz,es La Liga,W 1-0,1,0,1,73,1,0,0,0,Match Report
+596,Rayo Vallecano,2023-10-07,@,Sevilla,es La Liga,D 2-2,2,2,0,36,2,0,0,0,Match Report
+597,Sevilla,2023-10-07,,Rayo Vallecano,es La Liga,D 2-2,2,2,0,64,2,0,0,0,Match Report
+598,Valencia,2023-10-07,@,Mallorca,es La Liga,D 1-1,1,1,0,51,1,0,0,0,Match Report
+599,Cádiz,2023-10-07,,Girona,es La Liga,L 0-1,0,1,-1,27,0,0,0,0,Match Report
+600,Real Madrid,2023-10-07,,Osasuna,es La Liga,W 4-0,4,0,4,67,4,0,1,1,Match Report
+601,Athletic Club,2023-10-06,,Almería,es La Liga,W 3-0,3,0,3,59,3,0,0,0,Match Report
+602,Almería,2023-10-06,@,Athletic Club,es La Liga,L 0-3,0,3,-3,41,0,0,0,0,Match Report
+603,Las Palmas,2023-10-02,,Celta Vigo,es La Liga,W 2-1,2,1,1,73,1,1,1,0,Match Report
+604,Celta Vigo,2023-10-02,@,Las Palmas,es La Liga,L 1-2,1,2,-1,27,1,0,0,0,Match Report
+605,Osasuna,2023-10-01,@,Alavés,es La Liga,W 2-0,2,0,2,54,2,0,0,0,Match Report
+606,Almería,2023-10-01,,Granada,es La Liga,D 3-3,3,3,0,49,3,0,0,0,Match Report
+607,Alavés,2023-10-01,,Osasuna,es La Liga,L 0-2,0,2,-2,46,0,0,0,0,Match Report
+608,Granada,2023-10-01,@,Almería,es La Liga,D 3-3,3,3,0,51,2,1,2,1,Match Report
+609,Atlético Madrid,2023-10-01,,Cádiz,es La Liga,W 3-2,3,2,1,69,3,0,0,0,Match Report
+610,Valencia,2023-10-01,@,Betis,es La Liga,L 0-3,0,3,-3,45,0,0,0,0,Match Report
+611,Cádiz,2023-10-01,@,Atlético Madrid,es La Liga,L 2-3,2,3,-1,31,2,0,0,0,Match Report
+612,Betis,2023-10-01,,Valencia,es La Liga,W 3-0,3,0,3,55,3,0,0,0,Match Report
+613,Villarreal,2023-09-30,@,Getafe,es La Liga,D 0-0,0,0,0,36,0,0,0,0,Match Report
+614,Mallorca,2023-09-30,@,Rayo Vallecano,es La Liga,D 2-2,2,2,0,40,2,0,0,0,Match Report
+615,Athletic Club,2023-09-30,@,Real Sociedad,es La Liga,L 0-3,0,3,-3,49,0,0,0,0,Match Report
+616,Getafe,2023-09-30,,Villarreal,es La Liga,D 0-0,0,0,0,64,0,0,0,0,Match Report
+617,Girona,2023-09-30,,Real Madrid,es La Liga,L 0-3,0,3,-3,52,0,0,0,0,Match Report
+618,Rayo Vallecano,2023-09-30,,Mallorca,es La Liga,D 2-2,2,2,0,60,1,1,1,0,Match Report
+619,Real Sociedad,2023-09-30,,Athletic Club,es La Liga,W 3-0,3,0,3,51,3,0,0,0,Match Report
+620,Real Madrid,2023-09-30,@,Girona,es La Liga,W 3-0,3,0,3,48,3,0,0,0,Match Report
+621,Barcelona,2023-09-29,,Sevilla,es La Liga,W 1-0,1,0,1,58,0,0,0,0,Match Report
+622,Sevilla,2023-09-29,@,Barcelona,es La Liga,L 0-1,0,1,-1,42,0,0,0,0,Match Report
+623,Osasuna,2023-09-28,,Atlético Madrid,es La Liga,L 0-2,0,2,-2,55,0,0,0,0,Match Report
+624,Alavés,2023-09-28,@,Celta Vigo,es La Liga,D 1-1,1,1,0,54,1,0,0,0,Match Report
+625,Granada,2023-09-28,,Betis,es La Liga,D 1-1,1,1,0,39,1,0,0,0,Match Report
+626,Atlético Madrid,2023-09-28,@,Osasuna,es La Liga,W 2-0,2,0,2,45,2,0,0,0,Match Report
+627,Celta Vigo,2023-09-28,,Alavés,es La Liga,D 1-1,1,1,0,46,0,0,0,0,Match Report
+628,Betis,2023-09-28,@,Granada,es La Liga,D 1-1,1,1,0,61,1,0,0,0,Match Report
+629,Las Palmas,2023-09-27,@,Real Madrid,es La Liga,L 0-2,0,2,-2,52,0,0,0,0,Match Report
+630,Villarreal,2023-09-27,,Girona,es La Liga,L 1-2,1,2,-1,53,0,1,1,0,Match Report
+631,Athletic Club,2023-09-27,,Getafe,es La Liga,D 2-2,2,2,0,49,2,0,0,0,Match Report
+632,Getafe,2023-09-27,@,Athletic Club,es La Liga,D 2-2,2,2,0,51,2,0,0,0,Match Report
+633,Girona,2023-09-27,@,Villarreal,es La Liga,W 2-1,2,1,1,47,2,0,0,0,Match Report
+634,Rayo Vallecano,2023-09-27,@,Cádiz,es La Liga,D 0-0,0,0,0,48,0,0,0,0,Match Report
+635,Valencia,2023-09-27,,Real Sociedad,es La Liga,L 0-1,0,1,-1,38,0,0,0,0,Match Report
+636,Real Sociedad,2023-09-27,@,Valencia,es La Liga,W 1-0,1,0,1,62,1,0,0,0,Match Report
+637,Cádiz,2023-09-27,,Rayo Vallecano,es La Liga,D 0-0,0,0,0,52,0,0,0,0,Match Report
+638,Real Madrid,2023-09-27,,Las Palmas,es La Liga,W 2-0,2,0,2,48,2,0,0,0,Match Report
+639,Barcelona,2023-09-26,@,Mallorca,es La Liga,D 2-2,2,2,0,69,2,0,0,0,Match Report
+640,Mallorca,2023-09-26,,Barcelona,es La Liga,D 2-2,2,2,0,31,2,0,0,0,Match Report
+641,Almería,2023-09-26,@,Sevilla,es La Liga,L 1-5,1,5,-4,54,0,1,1,0,Match Report
+642,Sevilla,2023-09-26,,Almería,es La Liga,W 5-1,5,1,4,46,5,0,0,0,Match Report
+643,Las Palmas,2023-09-24,,Granada,es La Liga,W 1-0,1,0,1,56,1,0,0,0,Match Report
+644,Villarreal,2023-09-24,@,Rayo Vallecano,es La Liga,D 1-1,1,1,0,58,1,0,0,0,Match Report
+645,Getafe,2023-09-24,@,Real Sociedad,es La Liga,L 3-4,3,4,-1,39,2,1,1,0,Match Report
+646,Rayo Vallecano,2023-09-24,,Villarreal,es La Liga,D 1-1,1,1,0,42,1,0,0,0,Match Report
+647,Granada,2023-09-24,@,Las Palmas,es La Liga,L 0-1,0,1,-1,44,0,0,0,0,Match Report
+648,Atlético Madrid,2023-09-24,,Real Madrid,es La Liga,W 3-1,3,1,2,37,3,0,0,0,Match Report
+649,Real Sociedad,2023-09-24,,Getafe,es La Liga,W 4-3,4,3,1,61,3,1,1,0,Match Report
+650,Cádiz,2023-09-24,@,Betis,es La Liga,D 1-1,1,1,0,37,1,0,0,0,Match Report
+651,Betis,2023-09-24,,Cádiz,es La Liga,D 1-1,1,1,0,63,1,0,0,0,Match Report
+652,Real Madrid,2023-09-24,@,Atlético Madrid,es La Liga,L 1-3,1,3,-2,63,1,0,0,0,Match Report
+653,Osasuna,2023-09-23,,Sevilla,es La Liga,D 0-0,0,0,0,44,0,0,0,0,Match Report
+654,Barcelona,2023-09-23,,Celta Vigo,es La Liga,W 3-2,3,2,1,74,3,0,0,0,Match Report
+655,Mallorca,2023-09-23,@,Girona,es La Liga,L 3-5,3,5,-2,44,2,1,1,0,Match Report
+656,Almería,2023-09-23,,Valencia,es La Liga,D 2-2,2,2,0,61,2,0,0,0,Match Report
+657,Girona,2023-09-23,,Mallorca,es La Liga,W 5-3,5,3,2,56,4,1,1,0,Match Report
+658,Sevilla,2023-09-23,@,Osasuna,es La Liga,D 0-0,0,0,0,56,0,0,0,0,Match Report
+659,Valencia,2023-09-23,@,Almería,es La Liga,D 2-2,2,2,0,39,2,0,0,0,Match Report
+660,Celta Vigo,2023-09-23,@,Barcelona,es La Liga,L 2-3,2,3,-1,26,2,0,0,0,Match Report
+661,Athletic Club,2023-09-22,@,Alavés,es La Liga,W 2-0,2,0,2,56,2,0,0,0,Match Report
+662,Alavés,2023-09-22,,Athletic Club,es La Liga,L 0-2,0,2,-2,44,0,0,0,0,Match Report
+663,Girona,2023-09-18,@,Granada,es La Liga,W 4-2,4,2,2,57,4,0,0,0,Match Report
+664,Granada,2023-09-18,,Girona,es La Liga,L 2-4,2,4,-2,43,2,0,0,0,Match Report
+665,Las Palmas,2023-09-17,@,Sevilla,es La Liga,L 0-1,0,1,-1,57,0,0,0,0,Match Report
+666,Osasuna,2023-09-17,@,Getafe,es La Liga,L 2-3,2,3,-1,56,1,1,1,0,Match Report
+667,Villarreal,2023-09-17,,Almería,es La Liga,W 2-1,2,1,1,62,2,0,0,0,Match Report
+668,Getafe,2023-09-17,,Osasuna,es La Liga,W 3-2,3,2,1,44,3,0,0,0,Match Report
+669,Almería,2023-09-17,@,Villarreal,es La Liga,L 1-2,1,2,-1,38,1,0,0,0,Match Report
+670,Sevilla,2023-09-17,,Las Palmas,es La Liga,W 1-0,1,0,1,43,1,0,0,0,Match Report
+671,Real Sociedad,2023-09-17,@,Real Madrid,es La Liga,L 1-2,1,2,-1,48,1,0,0,0,Match Report
+672,Real Madrid,2023-09-17,,Real Sociedad,es La Liga,W 2-1,2,1,1,52,2,0,0,0,Match Report
+673,Barcelona,2023-09-16,,Betis,es La Liga,W 5-0,5,0,5,65,5,0,0,0,Match Report
+674,Mallorca,2023-09-16,@,Celta Vigo,es La Liga,W 1-0,1,0,1,40,1,0,0,0,Match Report
+675,Athletic Club,2023-09-16,,Cádiz,es La Liga,W 3-0,3,0,3,65,3,0,0,0,Match Report
+676,Atlético Madrid,2023-09-16,@,Valencia,es La Liga,L 0-3,0,3,-3,63,0,0,0,0,Match Report
+677,Valencia,2023-09-16,,Atlético Madrid,es La Liga,W 3-0,3,0,3,37,3,0,0,0,Match Report
+678,Cádiz,2023-09-16,@,Athletic Club,es La Liga,L 0-3,0,3,-3,35,0,0,0,0,Match Report
+679,Celta Vigo,2023-09-16,,Mallorca,es La Liga,L 0-1,0,1,-1,60,0,0,0,0,Match Report
+680,Betis,2023-09-16,@,Barcelona,es La Liga,L 0-5,0,5,-5,35,0,0,0,0,Match Report
+681,Alavés,2023-09-15,@,Rayo Vallecano,es La Liga,L 0-2,0,2,-2,49,0,0,0,0,Match Report
+682,Rayo Vallecano,2023-09-15,,Alavés,es La Liga,W 2-0,2,0,2,51,1,1,1,0,Match Report
+683,Las Palmas,2023-09-03,@,Girona,es La Liga,L 0-1,0,1,-1,54,0,0,0,0,Match Report
+684,Osasuna,2023-09-03,,Barcelona,es La Liga,L 1-2,1,2,-1,31,1,0,0,0,Match Report
+685,Barcelona,2023-09-03,@,Osasuna,es La Liga,W 2-1,2,1,1,69,1,1,1,0,Match Report
+686,Mallorca,2023-09-03,,Athletic Club,es La Liga,D 0-0,0,0,0,33,0,0,0,0,Match Report
+687,Athletic Club,2023-09-03,@,Mallorca,es La Liga,D 0-0,0,0,0,67,0,0,0,0,Match Report
+688,Girona,2023-09-03,,Las Palmas,es La Liga,W 1-0,1,0,1,46,1,0,0,0,Match Report
+689,Getafe,2023-09-02,@,Real Madrid,es La Liga,L 1-2,1,2,-1,24,1,0,0,0,Match Report
+690,Alavés,2023-09-02,,Valencia,es La Liga,W 1-0,1,0,1,40,0,0,1,1,Match Report
+691,Rayo Vallecano,2023-09-02,@,Betis,es La Liga,L 0-1,0,1,-1,45,0,0,0,0,Match Report
+692,Granada,2023-09-02,@,Real Sociedad,es La Liga,L 3-5,3,5,-2,39,2,0,0,0,Match Report
+693,Valencia,2023-09-02,@,Alavés,es La Liga,L 0-1,0,1,-1,60,0,0,0,0,Match Report
+694,Real Sociedad,2023-09-02,,Granada,es La Liga,W 5-3,5,3,2,61,4,0,0,0,Match Report
+695,Betis,2023-09-02,,Rayo Vallecano,es La Liga,W 1-0,1,0,1,55,1,0,0,0,Match Report
+696,Real Madrid,2023-09-02,,Getafe,es La Liga,W 2-1,2,1,1,76,2,0,0,0,Match Report
+697,Villarreal,2023-09-01,@,Cádiz,es La Liga,L 1-3,1,3,-2,57,1,0,0,0,Match Report
+698,Almería,2023-09-01,,Celta Vigo,es La Liga,L 2-3,2,3,-1,63,2,0,0,0,Match Report
+699,Cádiz,2023-09-01,,Villarreal,es La Liga,W 3-1,3,1,2,43,2,1,1,0,Match Report
+700,Celta Vigo,2023-09-01,@,Almería,es La Liga,W 3-2,3,2,1,37,3,0,0,0,Match Report
+701,Getafe,2023-08-28,,Alavés,es La Liga,W 1-0,1,0,1,47,0,1,1,0,Match Report
+702,Alavés,2023-08-28,@,Getafe,es La Liga,L 0-1,0,1,-1,53,0,0,0,0,Match Report
+703,Rayo Vallecano,2023-08-28,,Atlético Madrid,es La Liga,L 0-7,0,7,-7,56,0,0,0,0,Match Report
+704,Atlético Madrid,2023-08-28,@,Rayo Vallecano,es La Liga,W 7-0,7,0,7,44,7,0,0,0,Match Report
+705,Osasuna,2023-08-27,@,Valencia,es La Liga,W 2-1,2,1,1,36,1,1,1,0,Match Report
+706,Barcelona,2023-08-27,@,Villarreal,es La Liga,W 4-3,4,3,1,60,4,0,0,0,Match Report
+707,Villarreal,2023-08-27,,Barcelona,es La Liga,L 3-4,3,4,-1,40,3,0,0,0,Match Report
+708,Athletic Club,2023-08-27,,Betis,es La Liga,W 4-2,4,2,2,48,2,2,2,0,Match Report
+709,Valencia,2023-08-27,,Osasuna,es La Liga,L 1-2,1,2,-1,64,1,0,0,0,Match Report
+710,Betis,2023-08-27,@,Athletic Club,es La Liga,L 2-4,2,4,-2,52,2,0,0,0,Match Report
+711,Mallorca,2023-08-26,@,Granada,es La Liga,L 2-3,2,3,-1,47,2,0,1,1,Match Report
+712,Almería,2023-08-26,@,Cádiz,es La Liga,D 1-1,1,1,0,48,1,0,0,0,Match Report
+713,Girona,2023-08-26,@,Sevilla,es La Liga,W 2-1,2,1,1,48,2,0,0,0,Match Report
+714,Granada,2023-08-26,,Mallorca,es La Liga,W 3-2,3,2,1,53,2,1,1,0,Match Report
+715,Sevilla,2023-08-26,,Girona,es La Liga,L 1-2,1,2,-1,52,1,0,0,0,Match Report
+716,Cádiz,2023-08-26,,Almería,es La Liga,D 1-1,1,1,0,52,1,0,0,0,Match Report
+717,Las Palmas,2023-08-25,,Real Sociedad,es La Liga,D 0-0,0,0,0,52,0,0,0,0,Match Report
+718,Real Sociedad,2023-08-25,@,Las Palmas,es La Liga,D 0-0,0,0,0,48,0,0,0,0,Match Report
+719,Celta Vigo,2023-08-25,,Real Madrid,es La Liga,L 0-1,0,1,-1,37,0,0,0,0,Match Report
+720,Real Madrid,2023-08-25,@,Celta Vigo,es La Liga,W 1-0,1,0,1,63,1,0,1,1,Match Report
+721,Alavés,2023-08-21,,Sevilla,es La Liga,W 4-3,4,3,1,34,4,0,0,0,Match Report
+722,Rayo Vallecano,2023-08-21,@,Granada,es La Liga,W 2-0,2,0,2,52,2,0,0,0,Match Report
+723,Granada,2023-08-21,,Rayo Vallecano,es La Liga,L 0-2,0,2,-2,48,0,0,0,0,Match Report
+724,Sevilla,2023-08-21,@,Alavés,es La Liga,L 3-4,3,4,-1,66,2,0,0,0,Match Report
+725,Barcelona,2023-08-20,,Cádiz,es La Liga,W 2-0,2,0,2,74,2,0,0,0,Match Report
+726,Getafe,2023-08-20,@,Girona,es La Liga,L 0-3,0,3,-3,37,0,0,0,0,Match Report
+727,Girona,2023-08-20,,Getafe,es La Liga,W 3-0,3,0,3,63,3,0,0,0,Match Report
+728,Atlético Madrid,2023-08-20,@,Betis,es La Liga,D 0-0,0,0,0,47,0,0,0,0,Match Report
+729,Cádiz,2023-08-20,@,Barcelona,es La Liga,L 0-2,0,2,-2,26,0,0,0,0,Match Report
+730,Betis,2023-08-20,,Atlético Madrid,es La Liga,D 0-0,0,0,0,53,0,0,0,0,Match Report
+731,Osasuna,2023-08-19,,Athletic Club,es La Liga,L 0-2,0,2,-2,63,0,0,0,0,Match Report
+732,Athletic Club,2023-08-19,@,Osasuna,es La Liga,W 2-0,2,0,2,37,2,0,0,0,Match Report
+733,Almería,2023-08-19,,Real Madrid,es La Liga,L 1-3,1,3,-2,43,1,0,0,0,Match Report
+734,Real Sociedad,2023-08-19,,Celta Vigo,es La Liga,D 1-1,1,1,0,53,1,0,0,0,Match Report
+735,Celta Vigo,2023-08-19,@,Real Sociedad,es La Liga,D 1-1,1,1,0,47,1,0,0,0,Match Report
+736,Real Madrid,2023-08-19,@,Almería,es La Liga,W 3-1,3,1,2,57,3,0,0,0,Match Report
+737,Las Palmas,2023-08-18,@,Valencia,es La Liga,L 0-1,0,1,-1,61,0,0,0,0,Match Report
+738,Villarreal,2023-08-18,@,Mallorca,es La Liga,W 1-0,1,0,1,60,1,0,0,0,Match Report
+739,Mallorca,2023-08-18,,Villarreal,es La Liga,L 0-1,0,1,-1,40,0,0,0,0,Match Report
+740,Valencia,2023-08-18,,Las Palmas,es La Liga,W 1-0,1,0,1,39,0,1,1,0,Match Report
+741,Alavés,2023-08-14,@,Cádiz,es La Liga,L 0-1,0,1,-1,55,0,0,0,0,Match Report
+742,Granada,2023-08-14,@,Atlético Madrid,es La Liga,L 1-3,1,3,-2,54,1,0,0,0,Match Report
+743,Atlético Madrid,2023-08-14,,Granada,es La Liga,W 3-1,3,1,2,46,3,0,0,0,Match Report
+744,Cádiz,2023-08-14,,Alavés,es La Liga,W 1-0,1,0,1,45,1,0,0,0,Match Report
+745,Osasuna,2023-08-13,@,Celta Vigo,es La Liga,W 2-0,2,0,2,47,2,0,0,0,Match Report
+746,Barcelona,2023-08-13,@,Getafe,es La Liga,D 0-0,0,0,0,74,0,0,0,0,Match Report
+747,Villarreal,2023-08-13,,Betis,es La Liga,L 1-2,1,2,-1,63,1,0,0,0,Match Report
+748,Getafe,2023-08-13,,Barcelona,es La Liga,D 0-0,0,0,0,26,0,0,0,0,Match Report
+749,Celta Vigo,2023-08-13,,Osasuna,es La Liga,L 0-2,0,2,-2,53,0,0,0,0,Match Report
+750,Betis,2023-08-13,@,Villarreal,es La Liga,W 2-1,2,1,1,37,2,0,0,0,Match Report
+751,Las Palmas,2023-08-12,,Mallorca,es La Liga,D 1-1,1,1,0,68,0,1,1,0,Match Report
+752,Mallorca,2023-08-12,@,Las Palmas,es La Liga,D 1-1,1,1,0,32,1,0,1,1,Match Report
+753,Athletic Club,2023-08-12,,Real Madrid,es La Liga,L 0-2,0,2,-2,46,0,0,0,0,Match Report
+754,Girona,2023-08-12,@,Real Sociedad,es La Liga,D 1-1,1,1,0,52,1,0,0,0,Match Report
+755,Real Sociedad,2023-08-12,,Girona,es La Liga,D 1-1,1,1,0,48,1,0,0,0,Match Report
+756,Real Madrid,2023-08-12,@,Athletic Club,es La Liga,W 2-0,2,0,2,54,2,0,0,0,Match Report
+757,Almería,2023-08-11,,Rayo Vallecano,es La Liga,L 0-2,0,2,-2,60,0,0,0,0,Match Report
+758,Rayo Vallecano,2023-08-11,@,Almería,es La Liga,W 2-0,2,0,2,40,0,2,2,0,Match Report
+759,Sevilla,2023-08-11,,Valencia,es La Liga,L 1-2,1,2,-1,55,1,0,0,0,Match Report
+760,Valencia,2023-08-11,@,Sevilla,es La Liga,W 2-1,2,1,1,45,2,0,0,0,Match Report
